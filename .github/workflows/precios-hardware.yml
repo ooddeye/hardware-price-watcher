@@ -1,0 +1,49 @@
+name: Buscar precios de hardware
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Cada 4 horas.
+    - cron: "0 */4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  buscar-precios:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Buscar precios y avisar por Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MESSAGE_THREAD_ID: ${{ secrets.TELEGRAM_MESSAGE_THREAD_ID }}
+        run: python price_watch.py --config components.yml --out reports/precios.md --json reports/precios.json --telegram
+
+      - name: Subir reporte como artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: reporte-precios-hardware
+          path: |
+            reports/precios.md
+            reports/precios.json
+
+      - name: Commit del reporte
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/precios.md reports/precios.json
+          git commit -m "Actualizar reporte de precios" || echo "Sin cambios para commitear"
+          git push

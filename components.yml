@@ -1,0 +1,67 @@
+max_results_per_component: 8
+
+sources:
+  compragamer:
+    enabled: true
+    url: "https://static.compragamer.com/productos"
+    include_out_of_stock: false
+  hardgamers:
+    enabled: true
+    max_pages: 1
+    delay_seconds: 0.7
+
+components:
+  - name: "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler"
+    telegram_name: "Ryzen 7 5700"
+    target_price_ars: 320000
+    quantity: 1
+    compragamer_ids: [15474]
+    queries:
+      - "Ryzen 7 5700 Wraith Stealth"
+      - "AMD Ryzen 7 5700"
+    required_terms: ["ryzen", "5700"]
+    exclude_terms: ["5700g", "5700x", "pc gamer", "combo", "notebook"]
+
+  - name: "Mother Gigabyte A520M K V2 DDR4 AM4"
+    telegram_name: "Mother Gigabyte A520M K V2"
+    target_price_ars: 80000
+    quantity: 1
+    compragamer_ids: [14666]
+    queries:
+      - "Gigabyte A520M K V2"
+      - "Mother Gigabyte A520M K"
+    required_terms: ["gigabyte", "a520m", "v2"]
+    exclude_terms: ["combo", "pc gamer"]
+
+  - name: "Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19"
+    telegram_name: "RAM Mancer 16GB 3200"
+    target_price_ars: 160000
+    quantity: 1
+    compragamer_ids: [21515]
+    queries:
+      - "Mancer DDR4 16GB 3200 Vant S"
+      - "Memoria Mancer 16GB 3200 CL19"
+    required_terms: ["mancer", "16gb", "3200", "vant"]
+    exclude_terms: ["32gb", "2x16", "2 x 16", "notebook", "sodimm"]
+
+  - name: "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC"
+    telegram_name: "RX 7600 Challenger OC 8GB"
+    target_price_ars: 520000
+    quantity: 1
+    compragamer_ids: [14722]
+    queries:
+      - "Asrock Radeon RX 7600 Challenger OC 8GB"
+      - "RX 7600 8GB Challenger OC"
+    required_terms: ["rx", "7600", "8gb", "challenger"]
+    exclude_terms: ["xt", "pro", "pc gamer", "combo"]
+
+  - name: "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4"
+    telegram_name: "SSD Kingston NV3 1TB"
+    target_price_ars: 290000
+    quantity: 1
+    compragamer_ids: [16872]
+    queries:
+      - "Kingston NV3 1TB 6000MB/s"
+      - "SSD M.2 Kingston 1TB NV3"
+    required_terms: ["kingston", "nv3", "1tb"]
+    exclude_terms: ["500gb", "512gb", "2tb", "sata", "externo"]
