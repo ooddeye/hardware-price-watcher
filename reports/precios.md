@@ -1,16 +1,15 @@
 # Reporte de precios de hardware
 
-Generado: 2026-09-29 07:15:28 -03
+Generado: 2026-09-29 14:18:34 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
 Precio objetivo unitario: $ 320.000
 
-Mejor precio: **$ 233.933** en **VCC-IT SOLUTIONS** (OK, dentro del objetivo).
+Mejor precio: **$ 238.205** en **CompraGamer** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 233.933 | - | VCC-IT SOLUTIONS | hardgamers | PROCESADOR AMD (AM4) RYZEN 7 5700 | - | [ver](https://www.hardgamers.com.ar/product/vccitSolutions:viufv0) |
 | $ 238.205 | $ 264.672 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
 | $ 240.999 | - | Venex | hardgamers | PROCESADOR AMD RYZEN 7 5700 8/16 4.6GHZ AM4 SIN VIDEO | - | [ver](https://www.hardgamers.com.ar/product/venex:6d26s0) |
 | $ 241.300 | - | Gaming City | hardgamers | PROCESADOR AMD RYZEN 7 5700 CACHE DE 16 MB UNLOKED, AM4 DE 4,6 GHZ MAX BOOST | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:13855) |
@@ -18,23 +17,24 @@ Mejor precio: **$ 233.933** en **VCC-IT SOLUTIONS** (OK, dentro del objetivo).
 | $ 243.500 | - | XT-PC | hardgamers | MICRO AMD RYZEN 7 5700 S/VIDEO C/COOLER BOX AM4 | - | [ver](https://www.hardgamers.com.ar/product/xtpc:7brnk6) |
 | $ 243.775 | - | Acuario Insumos | hardgamers | PROCESADOR AMD RYZEN 7 5700 8 NÚCLEOS 4.6GHZ AM4 SIN VIDEO COOLER | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:inkkr7) |
 | $ 247.429 | - | Mexx | hardgamers | PROCESADOR AMD RYZEN 7 5700 3.7GHZ - AM4 (SIN GPU) | - | [ver](https://www.hardgamers.com.ar/product/mexx:hpmlmq) |
+| $ 247.700 | - | Compufan Store | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ AM4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:730143317856) |
 
 ## Mother Gigabyte A520M K V2 DDR4 AM4
 
 Precio objetivo unitario: $ 80.000
 
-Mejor precio: **$ 54** en **HardCore** (OK, dentro del objetivo).
+Mejor precio: **$ 78.054** en **ArmyTech** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 54 | - | HardCore | hardgamers | MOTHER GIGABYTE A520M-K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/hardcore:wc-72697) |
-| $ 76.023 | - | VCC-IT SOLUTIONS | hardgamers | MOTHER GIGABYTE (AM4) A520M K V2 | - | [ver](https://www.hardgamers.com.ar/product/vccitSolutions:m7lutq) |
 | $ 78.054 | - | ArmyTech | hardgamers | MOTHER GIGABYTE A520M-K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:507822914) |
 | $ 78.999 | - | Venex | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/venex:l8osdv) |
 | $ 80.300 | - | Compufan Store | hardgamers | MOTHER GIGABYTE A520M K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331852771) |
 | $ 80.479 | - | Acuario Insumos | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 MICRO ATX | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:b48fc) |
 | $ 80.998 | - | GoldenTech Store | hardgamers | MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/goldenTech:shh2sh) |
 | $ 81.200 | - | Gamer Factory | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/gamerfactory:qc1leg) |
+| $ 81.699 | - | Gaming City | hardgamers | MOTHERBOARD A520M K V2 GIGABYTE AM4 NEGRO | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:12224) |
+| $ 81.960 | - | Noxie Store | hardgamers | MOTHER GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/noxie:bz21y7) |
 
 ## Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19
 
@@ -66,16 +66,16 @@ Mejor precio: **$ 535.100** en **CompraGamer** ($ 15.100 sobre el objetivo).
 
 Precio objetivo unitario: $ 290.000
 
-Mejor precio: **$ 190** en **HardCore** (OK, dentro del objetivo).
+Mejor precio: **$ 273.287** en **Acuario Insumos** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 190 | - | HardCore | hardgamers | SSD KINGSTON NV3 1TB M.2 GEN4 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/hardcore:wc-81544) |
 | $ 273.287 | - | Acuario Insumos | hardgamers | DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj) |
-| $ 273.372 | - | Noxie Store | hardgamers | DISCO SOLIDO 1TB SSD KINGSTON SNV3S M.2 NVME | - | [ver](https://www.hardgamers.com.ar/product/noxie:apqg2e) |
 | $ 273.850 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
+| $ 274.404 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
 | $ 286.908 | - | Rocket Hard | hardgamers | DISCO SSD KINGSTON SNV3S 1TB M.2 NVME PCIE 4.0 | - | [ver](https://www.hardgamers.com.ar/product/rocketHard:492odb) |
 | $ 288.000 | - | Venex | hardgamers | DISCO S�LIDO SSD KINGSTON NV3 1TB M.2 NVME PCIE 4.0 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/venex:b40ooc) |
 | $ 289.443 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
+| $ 290.013 | - | Noxie Store | hardgamers | DISCO SOLIDO 1TB SSD KINGSTON SNV3S M.2 NVME | - | [ver](https://www.hardgamers.com.ar/product/noxie:apqg2e) |
 | $ 290.450 | - | MyM Computacion | hardgamers | ALMACENAMIENTO DISCO SOLIDO SSD NVME KINGSTON 1TB NV3 PCIE 4.0 M.2 SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/mmcomputacion:webpyb) |
 
