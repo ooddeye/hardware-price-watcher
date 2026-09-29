@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-09-28 15:58:41 -03
+Generado: 2026-09-28 21:03:58 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -17,7 +17,7 @@ Mejor precio: **$ 233.933** en **VCC-IT SOLUTIONS** (OK, dentro del objetivo).
 | $ 243.500 | - | Full H4rd | hardgamers | MICRO AMD RYZEN 7 5700 S/VIDEO C/COOLER BOX AM4 | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvv5qn) |
 | $ 243.500 | - | XT-PC | hardgamers | MICRO AMD RYZEN 7 5700 S/VIDEO C/COOLER BOX AM4 | - | [ver](https://www.hardgamers.com.ar/product/xtpc:7brnk6) |
 | $ 243.775 | - | Acuario Insumos | hardgamers | PROCESADOR AMD RYZEN 7 5700 8 NÚCLEOS 4.6GHZ AM4 SIN VIDEO COOLER | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:inkkr7) |
-| $ 245.700 | - | Gorila Games | hardgamers | PROCESADOR AMD RYZEN 7 5700 AM4 | - | [ver](https://www.hardgamers.com.ar/product/gorilaGames:b86zis) |
+| $ 247.429 | - | Mexx | hardgamers | PROCESADOR AMD RYZEN 7 5700 3.7GHZ - AM4 (SIN GPU) | - | [ver](https://www.hardgamers.com.ar/product/mexx:hpmlmq) |
 
 ## Mother Gigabyte A520M K V2 DDR4 AM4
 
@@ -33,8 +33,8 @@ Mejor precio: **$ 54** en **HardCore** (OK, dentro del objetivo).
 | $ 78.999 | - | Venex | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/venex:l8osdv) |
 | $ 80.300 | - | Compufan Store | hardgamers | MOTHER GIGABYTE A520M K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331852771) |
 | $ 80.479 | - | Acuario Insumos | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 MICRO ATX | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:b48fc) |
-| $ 81.260 | - | GoldenTech Store | hardgamers | MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/goldenTech:shh2sh) |
-| $ 81.500 | - | Gamer Factory | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/gamerfactory:qc1leg) |
+| $ 80.998 | - | GoldenTech Store | hardgamers | MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/goldenTech:shh2sh) |
+| $ 81.200 | - | Gamer Factory | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/gamerfactory:qc1leg) |
 
 ## Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19
 
@@ -45,7 +45,7 @@ Mejor precio: **$ 191.850** en **CompraGamer** ($ 31.850 sobre el objetivo).
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 191.850 | $ 213.167 | CompraGamer | compragamer | Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19 | 10 | [ver](https://compragamer.com/producto/Memoria_Mancer_DDR4_16GB_3200MHz_Vant_S_Black_CL19_21515) |
-| $ 262.125 | - | BLACK | hardgamers | MEMORIA MANCER DDR4 16GB 3200MHZ VANT S BLACK CL19 | - | [ver](https://www.hardgamers.com.ar/product/black:213595) |
+| $ 262.947 | - | BLACK | hardgamers | MEMORIA MANCER DDR4 16GB 3200MHZ VANT S BLACK CL19 | - | [ver](https://www.hardgamers.com.ar/product/black:213595) |
 
 ## Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC
 
@@ -57,9 +57,9 @@ Mejor precio: **$ 535.100** en **CompraGamer** ($ 15.100 sobre el objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 535.100 | $ 594.556 | CompraGamer | compragamer | Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Asrock_Radeon_RX_7600_8GB_GDDR6_Challenger_OC_14722) |
 | $ 540.800 | - | Compufan Store | hardgamers | PLACA DE VIDEO ASROCK CHALLENGER RX 7600 8GB GDDR6 OC | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4710483942037) |
-| $ 592.480 | - | SilverHard | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:pdlejz) |
+| $ 590.569 | - | SilverHard | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:pdlejz) |
 | $ 600.000 | - | HydraXtreme | hardgamers | PLACA DE VIDEO RX 7600 ASROCK CHALLENGER 8GB OC | - | [ver](https://www.hardgamers.com.ar/product/hydraxtreme:dirqan) |
-| $ 630.902 | - | SCP Hardstore | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:VGA650) |
+| $ 628.867 | - | SCP Hardstore | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:VGA650) |
 | $ 733.402 | - | BLACK | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 8GB GDDR6 CHALLENGER OC | - | [ver](https://www.hardgamers.com.ar/product/black:202574) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
