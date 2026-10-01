@@ -1,23 +1,23 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-01 00:11:55 -03
+Generado: 2026-10-01 07:34:48 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
 Precio objetivo unitario: $ 320.000
 
-Mejor precio: **$ 240.999** en **Venex** (OK, dentro del objetivo).
+Mejor precio: **$ 241.300** en **Gaming City** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 240.999 | - | Venex | hardgamers | PROCESADOR AMD RYZEN 7 5700 8/16 4.6GHZ AM4 SIN VIDEO | - | [ver](https://www.hardgamers.com.ar/product/venex:6d26s0) |
 | $ 241.300 | - | Gaming City | hardgamers | PROCESADOR AMD RYZEN 7 5700 CACHE DE 16 MB UNLOKED, AM4 DE 4,6 GHZ MAX BOOST | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:13855) |
 | $ 243.500 | - | Full H4rd | hardgamers | MICRO AMD RYZEN 7 5700 S/VIDEO C/COOLER BOX AM4 | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvv5qn) |
 | $ 243.500 | - | XT-PC | hardgamers | MICRO AMD RYZEN 7 5700 S/VIDEO C/COOLER BOX AM4 | - | [ver](https://www.hardgamers.com.ar/product/xtpc:7brnk6) |
 | $ 243.775 | - | Acuario Insumos | hardgamers | PROCESADOR AMD RYZEN 7 5700 8 NÚCLEOS 4.6GHZ AM4 SIN VIDEO COOLER | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:inkkr7) |
+| $ 246.900 | - | Compufan Store | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ AM4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:730143317856) |
 | $ 247.429 | - | Mexx | hardgamers | PROCESADOR AMD RYZEN 7 5700 3.7GHZ - AM4 (SIN GPU) | - | [ver](https://www.hardgamers.com.ar/product/mexx:hpmlmq) |
-| $ 247.700 | - | Compufan Store | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ AM4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:730143317856) |
 | $ 249.999 | - | Logg | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ 16MB ZEN3 AM4 C/ COOLER | - | [ver](https://www.hardgamers.com.ar/product/logg:rku7d5) |
+| $ 254.799 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
 
 ## Mother Gigabyte A520M K V2 DDR4 AM4
 

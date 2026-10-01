@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T03:11:55+00:00",
+  "generated_at": "2026-10-01T10:34:48+00:00",
   "currency": "ARS",
   "components": [
     {
@@ -7,20 +7,6 @@
       "target_price_ars": 320000,
       "quantity": 1,
       "offers": [
-        {
-          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
-          "source": "hardgamers",
-          "store": "Venex",
-          "name": "PROCESADOR AMD RYZEN 7 5700 8/16 4.6GHZ AM4 SIN VIDEO",
-          "price_ars": 240999.0,
-          "url": "https://www.hardgamers.com.ar/product/venex:6d26s0",
-          "score": 12,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
-        },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
           "source": "hardgamers",
@@ -33,7 +19,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -47,7 +33,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -61,7 +47,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -75,7 +61,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
+        },
+        {
+          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
+          "source": "hardgamers",
+          "store": "Compufan Store",
+          "name": "PROCESADOR AMD RYZEN 7 5700 4.6GHZ AM4",
+          "price_ars": 246900.0,
+          "url": "https://www.hardgamers.com.ar/product/compufanStore:730143317856",
+          "score": 12,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -89,21 +89,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
-        },
-        {
-          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
-          "source": "hardgamers",
-          "store": "Compufan Store",
-          "name": "PROCESADOR AMD RYZEN 7 5700 4.6GHZ AM4",
-          "price_ars": 247700.0,
-          "url": "https://www.hardgamers.com.ar/product/compufanStore:730143317856",
-          "score": 12,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -117,7 +103,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
+        },
+        {
+          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
+          "source": "hardgamers",
+          "store": "Amonpul Team",
+          "name": "PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER",
+          "price_ars": 254799.0,
+          "url": "https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b",
+          "score": 14,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-01T10:34:43+00:00"
         }
       ]
     },
@@ -138,7 +138,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
@@ -152,7 +152,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
@@ -166,7 +166,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
@@ -180,7 +180,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
@@ -194,7 +194,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
@@ -208,7 +208,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
@@ -222,7 +222,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
@@ -236,7 +236,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         }
       ]
     },
@@ -257,7 +257,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 211778.0,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19",
@@ -271,7 +271,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         }
       ]
     },
@@ -292,7 +292,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 590722.0,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
@@ -306,7 +306,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
@@ -320,7 +320,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
@@ -334,7 +334,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
@@ -348,7 +348,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
@@ -362,7 +362,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         }
       ]
     },
@@ -383,7 +383,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -397,7 +397,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -411,7 +411,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -425,7 +425,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -439,7 +439,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -453,7 +453,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -467,7 +467,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -481,7 +481,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-01T03:11:49+00:00"
+          "collected_at": "2026-10-01T10:34:43+00:00"
         }
       ]
     }
