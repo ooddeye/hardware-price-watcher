@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-01 20:34:52 -03
+Generado: 2026-10-02 00:13:28 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -10,7 +10,7 @@ Mejor precio: **$ 241.300** en **Gaming City** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 241.300 | - | Gaming City | hardgamers | PROCESADOR AMD RYZEN 7 5700 CACHE DE 16 MB UNLOKED, AM4 DE 4,6 GHZ MAX BOOST | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:13855) |
+| $ 241.300 | - | Gaming City | hardgamers | PROCESADOR AMD RYZEN 7 5700 SIN VIDEO (8C/16T) | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:13855) |
 | $ 243.500 | - | Full H4rd | hardgamers | MICRO AMD RYZEN 7 5700 S/VIDEO C/COOLER BOX AM4 | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvv5qn) |
 | $ 243.500 | - | XT-PC | hardgamers | MICRO AMD RYZEN 7 5700 S/VIDEO C/COOLER BOX AM4 | - | [ver](https://www.hardgamers.com.ar/product/xtpc:7brnk6) |
 | $ 243.775 | - | Acuario Insumos | hardgamers | PROCESADOR AMD RYZEN 7 5700 8 NÚCLEOS 4.6GHZ AM4 SIN VIDEO COOLER | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:inkkr7) |
@@ -33,7 +33,7 @@ Mejor precio: **$ 78.054** en **ArmyTech** (OK, dentro del objetivo).
 | $ 80.479 | - | Acuario Insumos | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 MICRO ATX | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:b48fc) |
 | $ 80.998 | - | GoldenTech Store | hardgamers | MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/goldenTech:shh2sh) |
 | $ 81.200 | - | Gamer Factory | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/gamerfactory:qc1leg) |
-| $ 81.699 | - | Gaming City | hardgamers | MOTHERBOARD A520M K V2 GIGABYTE AM4 NEGRO | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:12224) |
+| $ 81.699 | - | Gaming City | hardgamers | MOTHER A520M K V2 GIGABYTE AM4 | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:12224) |
 | $ 82.379 | - | TryHardware | hardgamers | MOTHER GIGABYTE A520M K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:9kcpcu) |
 
 ## Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19
@@ -61,6 +61,7 @@ Mejor precio: **$ 533.350** en **CompraGamer** ($ 13.350 sobre el objetivo).
 | $ 600.000 | - | HydraXtreme | hardgamers | PLACA DE VIDEO RX 7600 ASROCK CHALLENGER 8GB OC | - | [ver](https://www.hardgamers.com.ar/product/hydraxtreme:dirqan) |
 | $ 606.993 | - | SCP Hardstore | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:VGA650) |
 | $ 731.003 | - | BLACK | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 8GB GDDR6 CHALLENGER OC | - | [ver](https://www.hardgamers.com.ar/product/black:202574) |
+| $ 749.494 | - | BLACK | hardgamers | PLACA DE VIDEO RX 7600 8GB ASROCK GPU CHALLENGER OC (90-GA41ZZ-00UANZ) | - | [ver](https://www.hardgamers.com.ar/product/black:216571) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
