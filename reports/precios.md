@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-03 06:32:24 -03
+Generado: 2026-10-03 12:26:20 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -29,7 +29,7 @@ Mejor precio: **$ 78.054** en **ArmyTech** (OK, dentro del objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 78.054 | - | ArmyTech | hardgamers | MOTHER GIGABYTE A520M-K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:507822914) |
 | $ 78.999 | - | Venex | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/venex:l8osdv) |
-| $ 80.300 | - | Compufan Store | hardgamers | MOTHER GIGABYTE A520M K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331852771) |
+| $ 80.050 | - | Compufan Store | hardgamers | MOTHER GIGABYTE A520M K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331852771) |
 | $ 80.479 | - | Acuario Insumos | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 MICRO ATX | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:b48fc) |
 | $ 80.735 | - | GoldenTech Store | hardgamers | MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/goldenTech:shh2sh) |
 | $ 81.000 | - | Gamer Factory | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/gamerfactory:qc1leg) |
@@ -56,7 +56,7 @@ Mejor precio: **$ 533.350** en **CompraGamer** ($ 13.350 sobre el objetivo).
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 533.350 | $ 592.611 | CompraGamer | compragamer | Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Asrock_Radeon_RX_7600_8GB_GDDR6_Challenger_OC_14722) |
-| $ 540.800 | - | Compufan Store | hardgamers | PLACA DE VIDEO ASROCK CHALLENGER RX 7600 8GB GDDR6 OC | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4710483942037) |
+| $ 539.050 | - | Compufan Store | hardgamers | PLACA DE VIDEO ASROCK CHALLENGER RX 7600 8GB GDDR6 OC | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4710483942037) |
 | $ 592.928 | - | SilverHard | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:pdlejz) |
 | $ 600.000 | - | HydraXtreme | hardgamers | PLACA DE VIDEO RX 7600 ASROCK CHALLENGER 8GB OC | - | [ver](https://www.hardgamers.com.ar/product/hydraxtreme:dirqan) |
 | $ 605.029 | - | SCP Hardstore | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:VGA650) |
@@ -74,7 +74,7 @@ Mejor precio: **$ 264.449** en **SilverHard** (OK, dentro del objetivo).
 | $ 264.449 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
 | $ 269.846 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 273.287 | - | Acuario Insumos | hardgamers | DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj) |
-| $ 274.800 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
+| $ 273.900 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
 | $ 279.920 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
 | $ 287.790 | - | Full H4rd | hardgamers | HD SSD 1TB KINGSTON SNVS NV3 M2 NVME GEN4 6000MB/S 2280 Q NV2 | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvugp2) |
 | $ 287.790 | - | XT-PC | hardgamers | HD SSD 1TB KINGSTON SNVS NV3 M.2 NVME GEN4 6000MB/S 2280 +Q NV2 | - | [ver](https://www.hardgamers.com.ar/product/xtpc:sbccti) |
