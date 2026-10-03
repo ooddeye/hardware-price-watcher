@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-02 23:59:23 -03
+Generado: 2026-10-03 06:32:24 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -17,7 +17,7 @@ Mejor precio: **$ 232.491** en **CompraGamer** (OK, dentro del objetivo).
 | $ 243.500 | - | XT-PC | hardgamers | MICRO AMD RYZEN 7 5700 S/VIDEO C/COOLER BOX AM4 | - | [ver](https://www.hardgamers.com.ar/product/xtpc:7brnk6) |
 | $ 243.775 | - | Acuario Insumos | hardgamers | PROCESADOR AMD RYZEN 7 5700 8 NÚCLEOS 4.6GHZ AM4 SIN VIDEO COOLER | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:inkkr7) |
 | $ 245.999 | - | Venex | hardgamers | PROCESADOR AMD RYZEN 7 5700 8/16 4.6GHZ AM4 SIN VIDEO | - | [ver](https://www.hardgamers.com.ar/product/venex:6d26s0) |
-| $ 246.613 | - | AuraGamer | hardgamers | PROCESADOR AMD (AM4) RYZEN 7 5700 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:nwqohk) |
+| $ 246.610 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
 
 ## Mother Gigabyte A520M K V2 DDR4 AM4
 
@@ -34,7 +34,7 @@ Mejor precio: **$ 78.054** en **ArmyTech** (OK, dentro del objetivo).
 | $ 80.735 | - | GoldenTech Store | hardgamers | MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/goldenTech:shh2sh) |
 | $ 81.000 | - | Gamer Factory | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/gamerfactory:qc1leg) |
 | $ 81.699 | - | Gaming City | hardgamers | MOTHER A520M K V2 GIGABYTE AM4 | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:12224) |
-| $ 82.371 | - | AuraGamer | hardgamers | MOTHER GIGABYTE (AM4) A520M K V2 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:p07i1e) |
+| $ 82.371 | - | Amonpul Team | hardgamers | MOTHER GIGABYTE A520M-K V2 DDR4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:w57r05) |
 
 ## Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19
 
