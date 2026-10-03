@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-03 12:26:20 -03
+Generado: 2026-10-03 15:54:21 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -32,9 +32,9 @@ Mejor precio: **$ 78.054** en **ArmyTech** (OK, dentro del objetivo).
 | $ 80.050 | - | Compufan Store | hardgamers | MOTHER GIGABYTE A520M K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331852771) |
 | $ 80.479 | - | Acuario Insumos | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 MICRO ATX | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:b48fc) |
 | $ 80.735 | - | GoldenTech Store | hardgamers | MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/goldenTech:shh2sh) |
-| $ 81.000 | - | Gamer Factory | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/gamerfactory:qc1leg) |
 | $ 81.699 | - | Gaming City | hardgamers | MOTHER A520M K V2 GIGABYTE AM4 | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:12224) |
 | $ 82.371 | - | Amonpul Team | hardgamers | MOTHER GIGABYTE A520M-K V2 DDR4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:w57r05) |
+| $ 82.371 | - | AuraGamer | hardgamers | MOTHER GIGABYTE (AM4) A520M K V2 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:p07i1e) |
 
 ## Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19
 
