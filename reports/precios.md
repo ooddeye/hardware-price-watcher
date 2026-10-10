@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-10 07:16:35 -03
+Generado: 2026-10-10 13:37:35 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -78,6 +78,6 @@ Mejor precio: **$ 273.050** en **Compufan Store** (OK, dentro del objetivo).
 | $ 274.263 | - | Noxie Store | hardgamers | DISCO SOLIDO 1TB SSD KINGSTON SNV3S M.2 NVME | - | [ver](https://www.hardgamers.com.ar/product/noxie:apqg2e) |
 | $ 276.990 | - | Venex | hardgamers | DISCO S�LIDO SSD KINGSTON NV3 1TB M.2 NVME PCIE 4.0 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/venex:b40ooc) |
 | $ 277.235 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
+| $ 279.758 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 281.873 | - | Slot One | hardgamers | DISCO SÓLIDO M2 KINGSTON SNV3S 1TB PCIE 4.0 NVME 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/slotOne:nfblil) |
-| $ 285.354 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 
