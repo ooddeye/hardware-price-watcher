@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-10 00:27:15 -03
+Generado: 2026-10-10 07:16:35 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -62,7 +62,7 @@ Mejor precio: **$ 534.900** en **CompraGamer** ($ 14.900 sobre el objetivo).
 | $ 641.782 | - | Hardloots | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/hardloots:xw946l) |
 | $ 647.061 | - | Crosshair Gaming | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:vsyhh2) |
 | $ 649.899 | - | TryHardware | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 8GB GDDR6 CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:gkob6p) |
-| $ 658.577 | - | BracaTech | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/bracatech:vouto7) |
+| $ 652.463 | - | SilverHard | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:pdlejz) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
