@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-12 08:28:43 -03
+Generado: 2026-10-12 17:37:05 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -33,8 +33,8 @@ Mejor precio: **$ 78.054** en **ArmyTech** (OK, dentro del objetivo).
 | $ 80.473 | - | GoldenTech Store | hardgamers | MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/goldenTech:shh2sh) |
 | $ 80.479 | - | Acuario Insumos | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 MICRO ATX | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:b48fc) |
 | $ 80.700 | - | Gamer Factory | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/gamerfactory:qc1leg) |
+| $ 81.699 | - | Gaming City | hardgamers | MOTHER A520M K V2 GIGABYTE AM4 | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:12224) |
 | $ 81.914 | - | Megasoft | hardgamers | MOTHERBOARD GIGABYTE AM4 A520M K V2 DDR4 MEGASOFT CABALLITO NEGRO | - | [ver](https://www.hardgamers.com.ar/product/megasoft:81cpfa) |
-| $ 82.539 | - | CompuGarden | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/compugarden:16q8y8) |
 
 ## Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19
 
