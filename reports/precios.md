@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-13 01:38:17 -03
+Generado: 2026-10-13 12:25:35 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -11,7 +11,7 @@ Mejor precio: **$ 243.775** en **Acuario Insumos** (OK, dentro del objetivo).
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 243.775 | - | Acuario Insumos | hardgamers | PROCESADOR AMD RYZEN 7 5700 8 NÚCLEOS 4.6GHZ AM4 SIN VIDEO COOLER | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:inkkr7) |
-| $ 245.990 | $ 273.322 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
+| $ 244.400 | $ 271.556 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
 | $ 245.999 | - | Venex | hardgamers | PROCESADOR AMD RYZEN 7 5700 8/16 4.6GHZ AM4 SIN VIDEO | - | [ver](https://www.hardgamers.com.ar/product/venex:6d26s0) |
 | $ 246.115 | - | AuraGamer | hardgamers | PROCESADOR AMD (AM4) RYZEN 7 5700 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:nwqohk) |
 | $ 246.115 | - | Hardloots | hardgamers | PROCESADOR AMD (AM4) RYZEN 7 5700 | - | [ver](https://www.hardgamers.com.ar/product/hardloots:aegq9h) |
@@ -40,22 +40,22 @@ Mejor precio: **$ 78.054** en **ArmyTech** (OK, dentro del objetivo).
 
 Precio objetivo unitario: $ 160.000
 
-Mejor precio: **$ 191.250** en **CompraGamer** ($ 31.250 sobre el objetivo).
+Mejor precio: **$ 190.000** en **CompraGamer** ($ 30.000 sobre el objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 191.250 | $ 212.500 | CompraGamer | compragamer | Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19 | 10 | [ver](https://compragamer.com/producto/Memoria_Mancer_DDR4_16GB_3200MHz_Vant_S_Black_CL19_21515) |
+| $ 190.000 | $ 211.111 | CompraGamer | compragamer | Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19 | 10 | [ver](https://compragamer.com/producto/Memoria_Mancer_DDR4_16GB_3200MHz_Vant_S_Black_CL19_21515) |
 | $ 262.125 | - | BLACK | hardgamers | MEMORIA MANCER DDR4 16GB 3200MHZ VANT S BLACK CL19 | - | [ver](https://www.hardgamers.com.ar/product/black:213595) |
 
 ## Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC
 
 Precio objetivo unitario: $ 520.000
 
-Mejor precio: **$ 534.900** en **CompraGamer** ($ 14.900 sobre el objetivo).
+Mejor precio: **$ 531.450** en **CompraGamer** ($ 11.450 sobre el objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 534.900 | $ 594.333 | CompraGamer | compragamer | Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Asrock_Radeon_RX_7600_8GB_GDDR6_Challenger_OC_14722) |
+| $ 531.450 | $ 590.500 | CompraGamer | compragamer | Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Asrock_Radeon_RX_7600_8GB_GDDR6_Challenger_OC_14722) |
 | $ 570.350 | - | Compufan Store | hardgamers | PLACA DE VIDEO ASROCK CHALLENGER RX 7600 8GB GDDR6 OC | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4710483942037) |
 | $ 600.000 | - | HydraXtreme | hardgamers | PLACA DE VIDEO RX 7600 ASROCK CHALLENGER 8GB OC | - | [ver](https://www.hardgamers.com.ar/product/hydraxtreme:dirqan) |
 | $ 641.782 | - | AuraGamer | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/auragamer:2l455c) |
