@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-13 23:47:35 -03
+Generado: 2026-10-14 06:09:23 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -13,11 +13,11 @@ Mejor precio: **$ 243.775** en **Acuario Insumos** (OK, dentro del objetivo).
 | $ 243.775 | - | Acuario Insumos | hardgamers | PROCESADOR AMD RYZEN 7 5700 8 NÚCLEOS 4.6GHZ AM4 SIN VIDEO COOLER | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:inkkr7) |
 | $ 244.400 | $ 271.556 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
 | $ 245.999 | - | Venex | hardgamers | PROCESADOR AMD RYZEN 7 5700 8/16 4.6GHZ AM4 SIN VIDEO | - | [ver](https://www.hardgamers.com.ar/product/venex:6d26s0) |
+| $ 246.080 | - | Enjoy Computer | hardgamers | MICRO PROCESADOR AMD RYZEN 7 5700 AM4 S/VIDEO C/COOLER | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-10370) |
 | $ 246.115 | - | AuraGamer | hardgamers | PROCESADOR AMD (AM4) RYZEN 7 5700 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:nwqohk) |
 | $ 246.115 | - | Hardloots | hardgamers | PROCESADOR AMD (AM4) RYZEN 7 5700 | - | [ver](https://www.hardgamers.com.ar/product/hardloots:aegq9h) |
 | $ 246.121 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
 | $ 248.100 | - | Gorila Games | hardgamers | PROCESADOR AMD RYZEN 7 5700 AM4 | - | [ver](https://www.hardgamers.com.ar/product/gorilaGames:b86zis) |
-| $ 248.100 | - | Gorila Games | hardgamers | PROCESADOR AMD (AM4) RYZEN 7 5700 | - | [ver](https://www.hardgamers.com.ar/product/gorilaGames:6rjqik) |
 
 ## Mother Gigabyte A520M K V2 DDR4 AM4
 
