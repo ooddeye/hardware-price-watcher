@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-15 05:42:11 -03
+Generado: 2026-10-15 12:59:42 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -32,8 +32,8 @@ Mejor precio: **$ 78.054** en **ArmyTech** (OK, dentro del objetivo).
 | $ 79.800 | - | Compufan Store | hardgamers | MOTHER GIGABYTE A520M K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331852771) |
 | $ 80.473 | - | GoldenTech Store | hardgamers | MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/goldenTech:shh2sh) |
 | $ 80.479 | - | Acuario Insumos | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 MICRO ATX | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:b48fc) |
+| $ 80.530 | - | Enjoy Computer | hardgamers | MOTHER GIGABYTE A520M-K V2 1.0 DDR4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-10689) |
 | $ 80.700 | - | Gamer Factory | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/gamerfactory:qc1leg) |
-| $ 81.320 | - | Enjoy Computer | hardgamers | MOTHER GIGABYTE A520M-K V2 1.0 DDR4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-10689) |
 | $ 81.649 | - | Megasoft | hardgamers | MOTHERBOARD GIGABYTE AM4 A520M K V2 DDR4 MEGASOFT CABALLITO NEGRO | - | [ver](https://www.hardgamers.com.ar/product/megasoft:81cpfa) |
 
 ## Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19
@@ -60,9 +60,9 @@ Mejor precio: **$ 531.450** en **CompraGamer** ($ 11.450 sobre el objetivo).
 | $ 600.000 | - | HydraXtreme | hardgamers | PLACA DE VIDEO RX 7600 ASROCK CHALLENGER 8GB OC | - | [ver](https://www.hardgamers.com.ar/product/hydraxtreme:dirqan) |
 | $ 641.782 | - | AuraGamer | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/auragamer:2l455c) |
 | $ 641.782 | - | Hardloots | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/hardloots:xw946l) |
+| $ 647.061 | - | Crosshair Gaming | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:vsyhh2) |
 | $ 652.463 | - | SilverHard | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:pdlejz) |
 | $ 653.779 | - | TryHardware | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 8GB GDDR6 CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:gkob6p) |
-| $ 658.577 | - | BracaTech | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/bracatech:vouto7) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
@@ -79,5 +79,5 @@ Mejor precio: **$ 265.996** en **Acuario Insumos** (OK, dentro del objetivo).
 | $ 279.758 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 281.873 | - | Slot One | hardgamers | DISCO SÓLIDO M2 KINGSTON SNV3S 1TB PCIE 4.0 NVME 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/slotOne:nfblil) |
 | $ 282.735 | - | IgnaTech | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/ignatech:6151) |
-| $ 288.600 | - | MyM Computacion | hardgamers | ALMACENAMIENTO DISCO SOLIDO SSD NVME KINGSTON 1TB NV3 PCIE 4.0 M.2 SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/mmcomputacion:webpyb) |
+| $ 282.880 | - | Crosshair Gaming | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:a53aqi) |
 
