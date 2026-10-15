@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-15 12:59:42 -03
+Generado: 2026-10-15 16:45:25 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -12,10 +12,10 @@ Mejor precio: **$ 243.775** en **Acuario Insumos** (OK, dentro del objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 243.775 | - | Acuario Insumos | hardgamers | PROCESADOR AMD RYZEN 7 5700 8 NÚCLEOS 4.6GHZ AM4 SIN VIDEO COOLER | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:inkkr7) |
 | $ 244.400 | $ 271.556 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
+| $ 245.313 | - | Hardloots | hardgamers | PROCESADOR AMD (AM4) RYZEN 7 5700 | - | [ver](https://www.hardgamers.com.ar/product/hardloots:aegq9h) |
 | $ 245.999 | - | Venex | hardgamers | PROCESADOR AMD RYZEN 7 5700 8/16 4.6GHZ AM4 SIN VIDEO | - | [ver](https://www.hardgamers.com.ar/product/venex:6d26s0) |
 | $ 246.060 | - | Enjoy Computer | hardgamers | MICRO PROCESADOR AMD RYZEN 7 5700 AM4 S/VIDEO C/COOLER | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-10370) |
 | $ 246.115 | - | AuraGamer | hardgamers | PROCESADOR AMD (AM4) RYZEN 7 5700 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:nwqohk) |
-| $ 246.115 | - | Hardloots | hardgamers | PROCESADOR AMD (AM4) RYZEN 7 5700 | - | [ver](https://www.hardgamers.com.ar/product/hardloots:aegq9h) |
 | $ 246.121 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
 | $ 247.429 | - | Mexx | hardgamers | PROCESADOR AMD RYZEN 7 5700 3.7GHZ - AM4 (SIN GPU) | - | [ver](https://www.hardgamers.com.ar/product/mexx:hpmlmq) |
 
@@ -58,8 +58,8 @@ Mejor precio: **$ 531.450** en **CompraGamer** ($ 11.450 sobre el objetivo).
 | $ 531.450 | $ 590.500 | CompraGamer | compragamer | Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Asrock_Radeon_RX_7600_8GB_GDDR6_Challenger_OC_14722) |
 | $ 570.350 | - | Compufan Store | hardgamers | PLACA DE VIDEO ASROCK CHALLENGER RX 7600 8GB GDDR6 OC | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4710483942037) |
 | $ 600.000 | - | HydraXtreme | hardgamers | PLACA DE VIDEO RX 7600 ASROCK CHALLENGER 8GB OC | - | [ver](https://www.hardgamers.com.ar/product/hydraxtreme:dirqan) |
+| $ 639.692 | - | Hardloots | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/hardloots:xw946l) |
 | $ 641.782 | - | AuraGamer | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/auragamer:2l455c) |
-| $ 641.782 | - | Hardloots | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/hardloots:xw946l) |
 | $ 647.061 | - | Crosshair Gaming | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:vsyhh2) |
 | $ 652.463 | - | SilverHard | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:pdlejz) |
 | $ 653.779 | - | TryHardware | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 8GB GDDR6 CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:gkob6p) |
@@ -74,8 +74,8 @@ Mejor precio: **$ 265.996** en **Acuario Insumos** (OK, dentro del objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 265.996 | - | Acuario Insumos | hardgamers | DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj) |
 | $ 274.163 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
+| $ 276.332 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 | $ 276.999 | - | Venex | hardgamers | DISCO S�LIDO SSD KINGSTON NV3 1TB M.2 NVME PCIE 4.0 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/venex:b40ooc) |
-| $ 277.235 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 | $ 279.758 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 281.873 | - | Slot One | hardgamers | DISCO SÓLIDO M2 KINGSTON SNV3S 1TB PCIE 4.0 NVME 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/slotOne:nfblil) |
 | $ 282.735 | - | IgnaTech | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/ignatech:6151) |
