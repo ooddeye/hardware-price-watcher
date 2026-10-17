@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-16 19:20:28 -03
+Generado: 2026-10-16 23:13:25 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -61,8 +61,8 @@ Mejor precio: **$ 531.450** en **CompraGamer** ($ 11.450 sobre el objetivo).
 | $ 641.782 | - | AuraGamer | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/auragamer:2l455c) |
 | $ 641.782 | - | Hardloots | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/hardloots:xw946l) |
 | $ 647.061 | - | Crosshair Gaming | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:vsyhh2) |
+| $ 648.185 | - | Katech | hardgamers | VIDEO RADEON RX 7600 8GB ASROCK CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/katech:cgvzdr) |
 | $ 652.463 | - | SilverHard | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:pdlejz) |
-| $ 653.779 | - | TryHardware | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 8GB GDDR6 CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:gkob6p) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
