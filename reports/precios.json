@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:26:45+00:00",
+  "generated_at": "2026-10-19T17:59:26+00:00",
   "currency": "ARS",
   "components": [
     {
@@ -7,20 +7,6 @@
       "target_price_ars": 320000,
       "quantity": 1,
       "offers": [
-        {
-          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
-          "source": "hardgamers",
-          "store": "Katech",
-          "name": "PROCESADOR AMD RYZEN 7 5700 AM4",
-          "price_ars": 239998.0,
-          "url": "https://www.hardgamers.com.ar/product/katech:c0enuz",
-          "score": 12,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
           "source": "hardgamers",
@@ -33,7 +19,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
+          "source": "hardgamers",
+          "store": "Katech",
+          "name": "PROCESADOR AMD RYZEN 7 5700 AM4",
+          "price_ars": 243990.0,
+          "url": "https://www.hardgamers.com.ar/product/katech:c0enuz",
+          "score": 12,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -47,21 +47,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 271556.0,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
-        {
-          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
-          "source": "hardgamers",
-          "store": "Enjoy Computer",
-          "name": "MICRO PROCESADOR AMD RYZEN 7 5700 AM4 S/VIDEO C/COOLER",
-          "price_ars": 245990.0,
-          "url": "https://www.hardgamers.com.ar/product/enjoyComputer:wc-10370",
-          "score": 12,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -75,35 +61,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
-        {
-          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
-          "source": "hardgamers",
-          "store": "AuraGamer",
-          "name": "PROCESADOR AMD (AM4) RYZEN 7 5700",
-          "price_ars": 246115.0,
-          "url": "https://www.hardgamers.com.ar/product/auragamer:nwqohk",
-          "score": 12,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
-        {
-          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
-          "source": "hardgamers",
-          "store": "Hardloots",
-          "name": "PROCESADOR AMD (AM4) RYZEN 7 5700",
-          "price_ars": 246115.0,
-          "url": "https://www.hardgamers.com.ar/product/hardloots:aegq9h",
-          "score": 12,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -117,7 +75,49 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
+          "source": "hardgamers",
+          "store": "Enjoy Computer",
+          "name": "MICRO PROCESADOR AMD RYZEN 7 5700 AM4 S/VIDEO C/COOLER",
+          "price_ars": 246780.0,
+          "url": "https://www.hardgamers.com.ar/product/enjoyComputer:wc-10370",
+          "score": 12,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
+          "source": "hardgamers",
+          "store": "AuraGamer",
+          "name": "PROCESADOR AMD (AM4) RYZEN 7 5700",
+          "price_ars": 246916.0,
+          "url": "https://www.hardgamers.com.ar/product/auragamer:nwqohk",
+          "score": 12,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
+          "source": "hardgamers",
+          "store": "Hardloots",
+          "name": "PROCESADOR AMD (AM4) RYZEN 7 5700",
+          "price_ars": 246917.0,
+          "url": "https://www.hardgamers.com.ar/product/hardloots:aegq9h",
+          "score": 12,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
         }
       ]
     },
@@ -138,7 +138,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
@@ -152,7 +152,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
@@ -166,21 +166,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
-        {
-          "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
-          "source": "hardgamers",
-          "store": "GoldenTech Store",
-          "name": "MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4",
-          "price_ars": 80473.0,
-          "url": "https://www.hardgamers.com.ar/product/goldenTech:shh2sh",
-          "score": 18,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
@@ -194,49 +180,63 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
+          "source": "hardgamers",
+          "store": "GoldenTech Store",
+          "name": "MOTHER AMD GIGABYTE A520M K V2 AM4 DDR4",
+          "price_ars": 80735.0,
+          "url": "https://www.hardgamers.com.ar/product/goldenTech:shh2sh",
+          "score": 18,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
           "source": "hardgamers",
           "store": "Enjoy Computer",
           "name": "MOTHER GIGABYTE A520M-K V2 1.0 DDR4 AM4",
-          "price_ars": 80530.0,
+          "price_ars": 80780.0,
           "url": "https://www.hardgamers.com.ar/product/enjoyComputer:wc-10689",
           "score": 18,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
           "source": "hardgamers",
           "store": "Gamer Factory",
           "name": "MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4",
-          "price_ars": 80700.0,
+          "price_ars": 81000.0,
           "url": "https://www.hardgamers.com.ar/product/gamerfactory:qc1leg",
           "score": 18,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Mother Gigabyte A520M K V2 DDR4 AM4",
           "source": "hardgamers",
-          "store": "Megasoft",
-          "name": "MOTHERBOARD GIGABYTE AM4 A520M K V2 DDR4 MEGASOFT CABALLITO NEGRO",
-          "price_ars": 81649.0,
-          "url": "https://www.hardgamers.com.ar/product/megasoft:81cpfa",
+          "store": "Gaming City",
+          "name": "MOTHER A520M K V2 GIGABYTE AM4",
+          "price_ars": 81699.0,
+          "url": "https://www.hardgamers.com.ar/product/gamingCity:12224",
           "score": 18,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         }
       ]
     },
@@ -257,7 +257,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 211111.0,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19",
@@ -271,7 +271,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         }
       ]
     },
@@ -292,7 +292,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 590500.0,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
@@ -306,91 +306,91 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
-        {
-          "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
-          "source": "hardgamers",
-          "store": "HydraXtreme",
-          "name": "PLACA DE VIDEO RX 7600 ASROCK CHALLENGER 8GB OC",
-          "price_ars": 600000.0,
-          "url": "https://www.hardgamers.com.ar/product/hydraxtreme:dirqan",
-          "score": 24,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
-        {
-          "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
-          "source": "hardgamers",
-          "store": "AuraGamer",
-          "name": "PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER",
-          "price_ars": 641782.0,
-          "url": "https://www.hardgamers.com.ar/product/auragamer:2l455c",
-          "score": 24,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
-        {
-          "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
-          "source": "hardgamers",
-          "store": "Hardloots",
-          "name": "PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER",
-          "price_ars": 641782.0,
-          "url": "https://www.hardgamers.com.ar/product/hardloots:xw946l",
-          "score": 24,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
-        {
-          "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
-          "source": "hardgamers",
-          "store": "Crosshair Gaming",
-          "name": "PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER",
-          "price_ars": 647061.0,
-          "url": "https://www.hardgamers.com.ar/product/crosshairGaming:vsyhh2",
-          "score": 24,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
-        {
-          "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
-          "source": "hardgamers",
-          "store": "Katech",
-          "name": "VIDEO RADEON RX 7600 8GB ASROCK CHALLENGER",
-          "price_ars": 648185.0,
-          "url": "https://www.hardgamers.com.ar/product/katech:cgvzdr",
-          "score": 25,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
           "source": "hardgamers",
           "store": "SilverHard",
           "name": "PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB",
-          "price_ars": 652463.0,
+          "price_ars": 592928.0,
           "url": "https://www.hardgamers.com.ar/product/silverHard:pdlejz",
           "score": 25,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
+          "source": "hardgamers",
+          "store": "SCP Hardstore",
+          "name": "PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB",
+          "price_ars": 605029.0,
+          "url": "https://www.hardgamers.com.ar/product/scpHardStore:VGA650",
+          "score": 25,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
+          "source": "hardgamers",
+          "store": "AuraGamer",
+          "name": "PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER",
+          "price_ars": 643872.0,
+          "url": "https://www.hardgamers.com.ar/product/auragamer:2l455c",
+          "score": 24,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
+          "source": "hardgamers",
+          "store": "Hardloots",
+          "name": "PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER",
+          "price_ars": 643873.0,
+          "url": "https://www.hardgamers.com.ar/product/hardloots:xw946l",
+          "score": 24,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
+          "source": "hardgamers",
+          "store": "Crosshair Gaming",
+          "name": "PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER",
+          "price_ars": 649168.0,
+          "url": "https://www.hardgamers.com.ar/product/crosshairGaming:vsyhh2",
+          "score": 24,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
+          "source": "hardgamers",
+          "store": "TryHardware",
+          "name": "PLACA DE VIDEO ASROCK RADEON RX 7600 8GB GDDR6 CHALLENGER",
+          "price_ars": 653779.0,
+          "url": "https://www.hardgamers.com.ar/product/tryHardware:gkob6p",
+          "score": 25,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
         }
       ]
     },
@@ -404,14 +404,14 @@
           "source": "hardgamers",
           "store": "SilverHard",
           "name": "DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4",
-          "price_ars": 263314.0,
+          "price_ars": 264171.0,
           "url": "https://www.hardgamers.com.ar/product/silverHard:8pjwxi",
           "score": 19,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -425,7 +425,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -439,21 +439,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
-        },
-        {
-          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
-          "source": "hardgamers",
-          "store": "SCP Hardstore",
-          "name": "DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4",
-          "price_ars": 268688.0,
-          "url": "https://www.hardgamers.com.ar/product/scpHardStore:SM242",
-          "score": 19,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -467,7 +453,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
+        },
+        {
+          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
+          "source": "hardgamers",
+          "store": "SCP Hardstore",
+          "name": "DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4",
+          "price_ars": 269563.0,
+          "url": "https://www.hardgamers.com.ar/product/scpHardStore:SM242",
+          "score": 19,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -481,7 +481,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -495,21 +495,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
           "source": "hardgamers",
-          "store": "Venex",
-          "name": "DISCO S�LIDO SSD KINGSTON NV3 1TB M.2 NVME PCIE 4.0 6000MB/S",
-          "price_ars": 279990.0,
-          "url": "https://www.hardgamers.com.ar/product/venex:b40ooc",
+          "store": "ArmyTech",
+          "name": "DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4",
+          "price_ars": 279165.0,
+          "url": "https://www.hardgamers.com.ar/product/armyTech:539846107",
           "score": 20,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-19T09:26:40+00:00"
+          "collected_at": "2026-10-19T17:59:21+00:00"
         }
       ]
     }
