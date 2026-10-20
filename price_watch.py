@@ -179,7 +179,10 @@ def component_match_score(component: dict[str, Any], product_name: str, exact_id
 
     required_terms = component.get("required_terms", [])
     missing_terms = [term for term in required_terms if not term_present(normalized_name, term)]
-    if missing_terms and not exact_id_match:
+    # El ID es una pista, no un pase libre: solo saltea required_terms si el componente
+    # declara trust_compragamer_ids: true (ej. cuando CompraGamer cambia el nombre del producto).
+    trust_ids = bool(component.get("trust_compragamer_ids", False))
+    if missing_terms and not (exact_id_match and trust_ids):
         return False, 0, f"faltan: {', '.join(missing_terms)}"
 
     queries = component.get("queries", [])
@@ -341,6 +344,7 @@ def search_compragamer(
     include_out_of_stock = bool(source_cfg.get("include_out_of_stock", False))
     expected_ids = {i for i in (to_int(pid) for pid in component.get("compragamer_ids", [])) if i is not None}
     seen_ids: set[int] = set()
+    id_warnings: list[str] = []
     offers: list[Offer] = []
 
     for product in products:
@@ -351,6 +355,12 @@ def search_compragamer(
         name = str(product.get("nombre") or "")
         matched, score, matched_by = component_match_score(component, name, exact_id_match=exact_id_match)
         if not matched:
+            if exact_id_match and matched_by.startswith("faltan"):
+                id_warnings.append(
+                    f"CompraGamer: el ID {product_id} de '{component['name']}' apunta a "
+                    f"'{name}', que no cumple required_terms ({matched_by}). "
+                    "Revisar el ID en components.yml."
+                )
             continue
 
         offer = compragamer_offer_from_product(component, product, now_iso, score, matched_by)
@@ -360,7 +370,7 @@ def search_compragamer(
             continue
         offers.append(offer)
 
-    warnings = [
+    warnings = id_warnings + [
         f"CompraGamer: el ID {pid} de '{component['name']}' no existe en el catalogo (descontinuado o cambio de ID)."
         for pid in sorted(expected_ids - seen_ids)
     ]
@@ -559,6 +569,7 @@ def build_telegram_message(config: dict[str, Any], results: dict[str, list[Offer
 
         lines.append(title)
         lines.append(f"Mejor: {format_ars(best.price_ars)} - {best.store}")
+        lines.append(f"Producto: {best.name}")
         if target is not None:
             lines.append(f"Objetivo: {format_ars(target)} ({status})")
         if quantity > 1:
