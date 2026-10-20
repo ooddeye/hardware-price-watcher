@@ -1,67 +1,381 @@
-max_results_per_component: 8
+#!/usr/bin/env python3
+"""Buscador robusto de precios (Compragamer / Hardgamers) con alertas Telegram.
 
-sources:
-  compragamer:
-    enabled: true
-    url: "https://static.compragamer.com/productos"
-    include_out_of_stock: false
-  hardgamers:
-    enabled: true
-    max_pages: 1
-    delay_seconds: 0.7
+Uso:
+    pip install requests pyyaml
+    python price_watcher.py config.yaml [--json salida.json] [--notify] [-v]
 
-components:
-  - name: "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler"
-    telegram_name: "Ryzen 7 5700"
-    target_price_ars: 320000
-    quantity: 1
-    compragamer_ids: [15474]
-    queries:
-      - "Ryzen 7 5700 Wraith Stealth"
-      - "AMD Ryzen 7 5700"
-    required_terms: ["ryzen", "5700"]
-    exclude_terms: ["5700g", "5700x", "pc gamer", "combo", "notebook"]
+Variables de entorno para Telegram: TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+"""
+from __future__ import annotations
 
-  - name: "Mother Gigabyte A520M K V2 DDR4 AM4"
-    telegram_name: "Mother Gigabyte A520M K V2"
-    target_price_ars: 80000
-    quantity: 1
-    compragamer_ids: [14666]
-    queries:
-      - "Gigabyte A520M K V2"
-      - "Mother Gigabyte A520M K"
-    required_terms: ["gigabyte", "a520m", "v2"]
-    exclude_terms: ["combo", "pc gamer"]
+import argparse
+import json
+import logging
+import os
+import re
+import time
+import unicodedata
+from dataclasses import dataclass, asdict, field
+from pathlib import Path
+from typing import Any, Iterable
+from urllib.parse import quote_plus, urljoin
 
-  - name: "Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19"
-    telegram_name: "RAM Mancer 16GB 3200"
-    target_price_ars: 160000
-    quantity: 1
-    compragamer_ids: [21515]
-    queries:
-      - "Mancer DDR4 16GB 3200 Vant S"
-      - "Memoria Mancer 16GB 3200 CL19"
-    required_terms: ["mancer", "16gb", "3200", "vant"]
-    exclude_terms: ["32gb", "2x16", "2 x 16", "notebook", "sodimm"]
+import requests
+import yaml
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
-  - name: "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC"
-    telegram_name: "RX 7600 Challenger OC 8GB"
-    target_price_ars: 520000
-    quantity: 1
-    compragamer_ids: [14722]
-    queries:
-      - "Asrock Radeon RX 7600 Challenger OC 8GB"
-      - "RX 7600 8GB Challenger OC"
-    required_terms: ["rx", "7600", "8gb", "challenger"]
-    exclude_terms: ["xt", "pro", "pc gamer", "combo"]
+log = logging.getLogger("price_watcher")
 
-  - name: "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4"
-    telegram_name: "SSD Kingston NV3 1TB"
-    target_price_ars: 290000
-    quantity: 1
-    compragamer_ids: [16872]
-    queries:
-      - "Kingston NV3 1TB 6000MB/s"
-      - "SSD M.2 Kingston 1TB NV3"
-    required_terms: ["kingston", "nv3", "1tb"]
-    exclude_terms: ["500gb", "512gb", "2tb", "sata", "externo"]
+# ---------------------------------------------------------------------------
+# Plantillas de búsqueda: VERIFICAR contra los sitios reales (cambian seguido).
+# Se pueden sobreescribir desde el YAML: sources.<name>.search_url
+# ---------------------------------------------------------------------------
+DEFAULT_SEARCH_URLS = {
+    "compragamer": "https://compragamer.net/index.php?seccion=3&nro_max=50&limit=50&criterio={q}",
+    "hardgamers": "https://www.hardgamers.com.ar/search?q={q}&page={page}",
+}
+UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+NAME_KEYS = ("name", "nombre", "titulo", "title", "producto", "descripcion")
+PRICE_KEYS = ("price", "precio", "precio_lista", "precioLista", "lowPrice",
+              "precio_final", "precioFinal", "sale_price", "special_price")
+URL_KEYS = ("url", "link", "href", "permalink", "slug")
+ID_KEYS = ("id", "id_producto", "idProducto", "product_id", "sku")
+STOCK_KEYS = ("stock", "availability", "disponible", "in_stock", "inStock")
+
+
+# ---------------------------------------------------------------------------
+# Modelo
+# ---------------------------------------------------------------------------
+@dataclass
+class Offer:
+    source: str
+    name: str
+    price: float
+    url: str = ""
+    product_id: str = ""
+    in_stock: bool | None = None
+    suspicious: bool = False
+    note: str = ""
+
+    def key(self) -> str:
+        return self.url or f"{self.source}:{self.product_id or normalize(self.name)}"
+
+
+@dataclass
+class Component:
+    name: str
+    telegram_name: str
+    target_price_ars: float
+    quantity: int
+    queries: list[str]
+    required_terms: list[str]
+    exclude_terms: list[str]
+    compragamer_ids: list[int] = field(default_factory=list)
+
+
+# ---------------------------------------------------------------------------
+# Normalización y matching
+# ---------------------------------------------------------------------------
+def normalize(text: str) -> str:
+    """minúsculas, sin acentos, unidades pegadas ('8 GB' -> '8gb', '2 x 16' -> '2x16')."""
+    text = unicodedata.normalize("NFKD", str(text))
+    text = "".join(c for c in text if not unicodedata.combining(c)).lower()
+    text = re.sub(r"(\d)\s+(gb|tb|mb|mhz|ghz|mt/s)\b", r"\1\2", text)
+    text = re.sub(r"(\d)\s*x\s*(\d)", r"\1x\2", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def has_term(haystack_norm: str, term: str) -> bool:
+    """Coincidencia por límite de palabra (evita que 'pro' matchee 'proteccion')."""
+    t = re.escape(normalize(term))
+    return re.search(rf"(?<![a-z0-9]){t}(?![a-z0-9])", haystack_norm) is not None
+
+
+def matches(component: Component, text: str) -> bool:
+    h = normalize(text)
+    return (all(has_term(h, t) for t in component.required_terms)
+            and not any(has_term(h, t) for t in component.exclude_terms))
+
+
+# ---------------------------------------------------------------------------
+# Parseo de precios (formato AR: 1.234.567,89 / $ 1234567 / 1234567.5)
+# ---------------------------------------------------------------------------
+def parse_price(value: Any) -> float | None:
+    if value is None or isinstance(value, bool):
+        return None
+    if isinstance(value, (int, float)):
+        return float(value) if value > 0 else None
+    s = re.sub(r"[^\d.,]", "", str(value))
+    if not s:
+        return None
+    if "," in s and "." in s:
+        # el último separador es el decimal
+        if s.rfind(",") > s.rfind("."):
+            s = s.replace(".", "").replace(",", ".")
+        else:
+            s = s.replace(",", "")
+    elif "," in s:
+        s = s.replace(",", ".") if re.search(r",\d{1,2}$", s) else s.replace(",", "")
+    elif s.count(".") > 1 or re.search(r"\.\d{3}$", s):
+        s = s.replace(".", "")
+    try:
+        p = float(s)
+    except ValueError:
+        return None
+    return p if p > 0 else None
+
+
+def parse_stock(value: Any) -> bool | None:
+    if value is None:
+        return None
+    if isinstance(value, bool):
+        return value
+    if isinstance(value, (int, float)):
+        return value > 0
+    v = normalize(value)
+    if any(x in v for x in ("outofstock", "sin stock", "agotado", "soldout")):
+        return False
+    if any(x in v for x in ("instock", "en stock", "disponible")):
+        return True
+    return None
+
+
+# ---------------------------------------------------------------------------
+# HTTP con reintentos, backoff y rate limiting
+# ---------------------------------------------------------------------------
+def make_session() -> requests.Session:
+    s = requests.Session()
+    retry = Retry(total=4, backoff_factor=1.0,
+                  status_forcelist=(429, 500, 502, 503, 504),
+                  allowed_methods=("GET",), respect_retry_after_header=True)
+    s.mount("https://", HTTPAdapter(max_retries=retry))
+    s.mount("http://", HTTPAdapter(max_retries=retry))
+    s.headers.update({"User-Agent": UA, "Accept-Language": "es-AR,es;q=0.9",
+                      "Accept": "text/html,application/json;q=0.9,*/*;q=0.8"})
+    return s
+
+
+def fetch(session: requests.Session, url: str, delay: float) -> requests.Response | None:
+    try:
+        time.sleep(delay)
+        r = session.get(url, timeout=(5, 20))
+        r.raise_for_status()
+        return r
+    except requests.RequestException as e:
+        log.warning("Falló GET %s: %s", url, e)
+        return None
+
+
+# ---------------------------------------------------------------------------
+# Extracción genérica: JSON directo, JSON-LD, __NEXT_DATA__ y JSON embebido
+# ---------------------------------------------------------------------------
+def _first(d: dict, keys: Iterable[str]) -> Any:
+    for k in keys:
+        if k in d and d[k] not in (None, "", []):
+            return d[k]
+    return None
+
+
+def walk_products(node: Any, base_url: str, source: str) -> Iterable[Offer]:
+    if isinstance(node, dict):
+        name = _first(node, NAME_KEYS)
+        price = parse_price(_first(node, PRICE_KEYS))
+        if price is None and isinstance(node.get("offers"), (dict, list)):
+            offers = node["offers"] if isinstance(node["offers"], list) else [node["offers"]]
+            for o in offers:
+                if isinstance(o, dict):
+                    price = parse_price(_first(o, PRICE_KEYS))
+                    if price:
+                        node = {**node, "availability": o.get("availability")}
+                        break
+        if isinstance(name, str) and len(name) > 5 and price:
+            url = _first(node, URL_KEYS)
+            yield Offer(
+                source=source, name=name.strip(), price=price,
+                url=urljoin(base_url, url) if isinstance(url, str) else "",
+                product_id=str(_first(node, ID_KEYS) or ""),
+                in_stock=parse_stock(_first(node, STOCK_KEYS)),
+            )
+        for v in node.values():
+            yield from walk_products(v, base_url, source)
+    elif isinstance(node, list):
+        for v in node:
+            yield from walk_products(v, base_url, source)
+
+
+_SCRIPT_JSON = re.compile(
+    r'<script[^>]*(?:type="application/(?:ld\+)?json"|id="__NEXT_DATA__")[^>]*>(.*?)</script>',
+    re.S | re.I)
+
+
+def extract_offers(resp: requests.Response, source: str) -> list[Offer]:
+    out: list[Offer] = []
+    ctype = resp.headers.get("Content-Type", "")
+    if "json" in ctype:
+        try:
+            out.extend(walk_products(resp.json(), resp.url, source))
+        except ValueError:
+            pass
+    else:
+        for blob in _SCRIPT_JSON.findall(resp.text):
+            try:
+                out.extend(walk_products(json.loads(blob), resp.url, source))
+            except ValueError:
+                continue
+        if not out:
+            log.debug("Sin JSON embebido en %s; considerá agregar un parser HTML.", resp.url)
+    return out
+
+
+# ---------------------------------------------------------------------------
+# Fuentes
+# ---------------------------------------------------------------------------
+def search_source(session, source: str, cfg: dict, component: Component) -> list[Offer]:
+    if not cfg.get("enabled", True):
+        return []
+    template = cfg.get("search_url") or DEFAULT_SEARCH_URLS.get(source)
+    if not template:
+        log.error("Sin search_url para %s", source)
+        return []
+    delay = float(cfg.get("delay_seconds", 0.7))
+    pages = int(cfg.get("max_pages", 1))
+    offers: list[Offer] = []
+    for q in component.queries:
+        for page in range(1, pages + 1):
+            url = template.format(q=quote_plus(q), page=page)
+            resp = fetch(session, url, delay)
+            if not resp:
+                break
+            found = extract_offers(resp, source)
+            log.debug("%s | %r p%d -> %d candidatos", source, q, page, len(found))
+            offers.extend(found)
+            if not found:
+                break
+    # Compragamer: priorizar IDs conocidos si aparecen en los resultados
+    if source == "compragamer" and component.compragamer_ids:
+        ids = {str(i) for i in component.compragamer_ids}
+        for o in offers:
+            if o.product_id in ids:
+                o.note = "id conocido"
+    return offers
+
+
+# ---------------------------------------------------------------------------
+# Filtrado y ranking
+# ---------------------------------------------------------------------------
+def filter_offers(offers: list[Offer], comp: Component, sources_cfg: dict, max_n: int) -> list[Offer]:
+    seen: dict[str, Offer] = {}
+    for o in offers:
+        known_id = "id conocido" in o.note
+        if not (known_id or matches(comp, o.name)):
+            continue
+        if o.in_stock is False and not sources_cfg.get(o.source, {}).get("include_out_of_stock", False):
+            continue
+        # precio absurdamente bajo vs. objetivo => probable error/accesorio
+        if o.price < comp.target_price_ars * 0.35:
+            o.suspicious, o.note = True, (o.note + " precio sospechoso").strip()
+        prev = seen.get(o.key())
+        if prev is None or o.price < prev.price:
+            seen[o.key()] = o
+    ranked = sorted(seen.values(), key=lambda x: (x.suspicious, x.price))
+    return ranked[:max_n]
+
+
+# ---------------------------------------------------------------------------
+# Telegram + estado (alertar solo si el precio bajó)
+# ---------------------------------------------------------------------------
+def send_telegram(text: str) -> None:
+    token, chat = os.getenv("TELEGRAM_BOT_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
+    if not token or not chat:
+        log.warning("Telegram no configurado (faltan variables de entorno).")
+        return
+    try:
+        r = requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
+                          json={"chat_id": chat, "text": text,
+                                "disable_web_page_preview": True}, timeout=15)
+        r.raise_for_status()
+    except requests.RequestException as e:
+        log.error("Error enviando a Telegram: %s", e)
+
+
+def fmt(p: float) -> str:
+    return "$" + f"{p:,.0f}".replace(",", ".")
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+def load_config(path: str) -> tuple[dict, list[Component], int]:
+    raw = yaml.safe_load(Path(path).read_text(encoding="utf-8")) or {}
+    comps = []
+    for i, c in enumerate(raw.get("components", [])):
+        for req in ("name", "target_price_ars", "queries", "required_terms"):
+            if req not in c:
+                raise ValueError(f"components[{i}] sin campo obligatorio '{req}'")
+        comps.append(Component(
+            name=c["name"], telegram_name=c.get("telegram_name", c["name"]),
+            target_price_ars=float(c["target_price_ars"]),
+            quantity=int(c.get("quantity", 1)), queries=list(c["queries"]),
+            required_terms=list(c["required_terms"]),
+            exclude_terms=list(c.get("exclude_terms", [])),
+            compragamer_ids=list(c.get("compragamer_ids", []))))
+    return raw.get("sources", {}), comps, int(raw.get("max_results_per_component", 8))
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("config")
+    ap.add_argument("--json")
+    ap.add_argument("--notify", action="store_true")
+    ap.add_argument("--state", default=".price_state.json")
+    ap.add_argument("-v", "--verbose", action="store_true")
+    args = ap.parse_args()
+    logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO,
+                        format="%(levelname)s %(message)s")
+
+    sources, comps, max_n = load_config(args.config)
+    state_path = Path(args.state)
+    state = json.loads(state_path.read_text()) if state_path.exists() else {}
+    session = make_session()
+    report, alerts = {}, []
+
+    for comp in comps:
+        raw: list[Offer] = []
+        for src, cfg in sources.items():
+            try:  # una fuente caída no frena al resto
+                raw.extend(search_source(session, src, cfg or {}, comp))
+            except Exception as e:  # noqa: BLE001
+                log.exception("Fuente %s falló para %s: %s", src, comp.name, e)
+        offers = filter_offers(raw, comp, sources, max_n)
+        report[comp.name] = [asdict(o) for o in offers]
+
+        print(f"\n== {comp.telegram_name} (objetivo {fmt(comp.target_price_ars)}) ==")
+        if not offers:
+            print("  Sin resultados válidos.")
+            continue
+        for o in offers:
+            flag = "✅" if o.price <= comp.target_price_ars and not o.suspicious else "  "
+            print(f" {flag} {fmt(o.price):>14}  [{o.source}] {o.name[:70]} {o.note}\n      {o.url}")
+
+        best = next((o for o in offers if not o.suspicious), None)
+        if best and best.price <= comp.target_price_ars:
+            last = state.get(comp.name)
+            if last is None or best.price < last:
+                alerts.append(f"🔔 {comp.telegram_name}\n{fmt(best.price)} (objetivo {fmt(comp.target_price_ars)})"
+                              f"\n{best.source}: {best.url}")
+                state[comp.name] = best.price
+
+    if args.json:
+        Path(args.json).write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
+    state_path.write_text(json.dumps(state))
+    if args.notify and alerts:
+        send_telegram("\n\n".join(alerts))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
