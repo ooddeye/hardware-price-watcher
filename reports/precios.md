@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-20 20:29:45 -03
+Generado: 2026-10-20 20:32:50 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -20,11 +20,10 @@ Mejor precio: **$ 246.000** en **CompraGamer** (OK, dentro del objetivo).
 
 Precio objetivo unitario: $ 160.000
 
-Mejor precio: **$ 84.300** en **CompraGamer** (OK, dentro del objetivo).
+Mejor precio: **$ 118.695** en **CompraGamer** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 84.300 | $ 93.667 | CompraGamer | compragamer | Mother Gigabyte A520M K V2 DDR4 AM4 | 10 | [ver](https://compragamer.com/producto/Mother_Gigabyte_A520M_K_V2_DDR4_AM4_14666) |
 | $ 118.695 | $ 131.883 | CompraGamer | compragamer | Mother Asrock B550M-HDV DDR4 AM4 | 10 | [ver](https://compragamer.com/producto/Mother_Asrock_B550M_HDV_DDR4_AM4_10535) |
 | $ 129.615 | - | Noxie Store | hardgamers | MOTHER ASROCK B550M-HDV AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/noxie:bdrkkx) |
 | $ 143.170 | - | Katech | hardgamers | MOTHER ASROCK B550M-HDV AM4 | - | [ver](https://www.hardgamers.com.ar/product/katech:6ttwlm) |
@@ -32,6 +31,7 @@ Mejor precio: **$ 84.300** en **CompraGamer** (OK, dentro del objetivo).
 | $ 153.813 | - | AuraGamer | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:78f7f7) |
 | $ 153.814 | - | Hardloots | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/hardloots:wa8jlc) |
 | $ 154.300 | - | The Gamer Shop | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:4cdsq5) |
+| $ 154.739 | - | TryHardware | hardgamers | MOTHER ASROCK B550M PHANTOM GAMING 4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:x4mt46) |
 
 ## Memoria Team DDR4 8GB 3200MHz Elite Plus CL22
 
@@ -54,11 +54,10 @@ Mejor precio: **$ 108.716** en **CompraGamer** (OK, dentro del objetivo).
 
 Precio objetivo unitario: $ 640.000
 
-Mejor precio: **$ 534.900** en **CompraGamer** (OK, dentro del objetivo).
+Mejor precio: **$ 659.999** en **RM Insumos** ($ 19.999 sobre el objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 534.900 | $ 594.333 | CompraGamer | compragamer | Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Asrock_Radeon_RX_7600_8GB_GDDR6_Challenger_OC_14722) |
 | $ 659.999 | - | RM Insumos | hardgamers | GIGABYTE RTX 5050 WINDFORCE WF 8GB GDDR6 OC GEFORCE NVIDIA PLACA DE VIDEO | - | [ver](https://www.hardgamers.com.ar/product/rminsumos:6204) |
 | $ 664.950 | $ 738.833 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_Windforce_OC_21096) |
 | $ 698.000 | $ 775.556 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB GAMING OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_GAMING_OC_21438) |
@@ -66,6 +65,7 @@ Mejor precio: **$ 534.900** en **CompraGamer** (OK, dentro del objetivo).
 | $ 725.178 | - | ArmyTech | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE V2 OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/armyTech:74479513) |
 | $ 739.999 | - | Logg | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 128BIT PCIE 5.0 | - | [ver](https://www.hardgamers.com.ar/product/logg:u2m12t) |
 | $ 751.817 | - | SilverHard | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:s51sdn) |
+| $ 760.250 | - | Full H4rd | hardgamers | PLACA DE PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE OC | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvf1b0) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
@@ -83,4 +83,10 @@ Mejor precio: **$ 265.029** en **SilverHard** (OK, dentro del objetivo).
 | $ 278.707 | - | IgnaTech | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/ignatech:6151) |
 | $ 279.165 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
 | $ 279.480 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
+
+## Avisos
+
+- CompraGamer: el ID 14666 de 'Mother AsRock B550M WiFi AM4' apunta a 'Mother Gigabyte A520M K V2 DDR4 AM4', que no cumple required_terms (faltan: asrock, b550m). Revisar el ID en components.yml.
+- CompraGamer: el ID 21515 de 'Memoria Team DDR4 8GB 3200MHz Elite Plus CL22' apunta a 'Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19', que no cumple required_terms (faltan: team, 8gb). Revisar el ID en components.yml.
+- CompraGamer: el ID 14722 de 'Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC' apunta a 'Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC', que no cumple required_terms (faltan: RTX, 5050, gigabyte). Revisar el ID en components.yml.
 

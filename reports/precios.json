@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T23:29:45+00:00",
+  "generated_at": "2026-10-20T23:32:50+00:00",
   "currency": "ARS",
   "components": [
     {
@@ -19,7 +19,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 273333.0,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -33,7 +33,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -47,7 +47,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -61,7 +61,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -75,7 +75,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 372000.0,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         }
       ]
     },
@@ -88,20 +88,6 @@
           "component": "Mother AsRock B550M WiFi AM4",
           "source": "compragamer",
           "store": "CompraGamer",
-          "name": "Mother Gigabyte A520M K V2 DDR4 AM4",
-          "price_ars": 84300.0,
-          "url": "https://compragamer.com/producto/Mother_Gigabyte_A520M_K_V2_DDR4_AM4_14666",
-          "score": 116,
-          "matched_by": "id exacto",
-          "available": true,
-          "stock": 10,
-          "list_price_ars": 93667.0,
-          "collected_at": "2026-10-20T23:29:33+00:00"
-        },
-        {
-          "component": "Mother AsRock B550M WiFi AM4",
-          "source": "compragamer",
-          "store": "CompraGamer",
           "name": "Mother Asrock B550M-HDV DDR4 AM4",
           "price_ars": 118695.0,
           "url": "https://compragamer.com/producto/Mother_Asrock_B550M_HDV_DDR4_AM4_10535",
@@ -110,7 +96,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 131883.0,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -124,7 +110,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -138,7 +124,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -152,7 +138,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -166,7 +152,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -180,7 +166,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -194,7 +180,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
+        },
+        {
+          "component": "Mother AsRock B550M WiFi AM4",
+          "source": "hardgamers",
+          "store": "TryHardware",
+          "name": "MOTHER ASROCK B550M PHANTOM GAMING 4 AM4",
+          "price_ars": 154739.0,
+          "url": "https://www.hardgamers.com.ar/product/tryHardware:x4mt46",
+          "score": 18,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-20T23:32:35+00:00"
         }
       ]
     },
@@ -215,7 +215,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 120796.0,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -229,7 +229,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 131120.0,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -243,7 +243,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 143778.0,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -257,7 +257,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -271,7 +271,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -285,7 +285,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -299,7 +299,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -313,7 +313,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         }
       ]
     },
@@ -322,20 +322,6 @@
       "target_price_ars": 640000,
       "quantity": 1,
       "offers": [
-        {
-          "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
-          "source": "compragamer",
-          "store": "CompraGamer",
-          "name": "Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC",
-          "price_ars": 534900.0,
-          "url": "https://compragamer.com/producto/Placa_de_Video_Asrock_Radeon_RX_7600_8GB_GDDR6_Challenger_OC_14722",
-          "score": 122,
-          "matched_by": "id exacto",
-          "available": true,
-          "stock": 10,
-          "list_price_ars": 594333.0,
-          "collected_at": "2026-10-20T23:29:33+00:00"
-        },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
           "source": "hardgamers",
@@ -348,7 +334,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -362,7 +348,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 738833.0,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -376,7 +362,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 775556.0,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -390,7 +376,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -404,7 +390,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -418,7 +404,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -432,7 +418,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
+        },
+        {
+          "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
+          "source": "hardgamers",
+          "store": "Full H4rd",
+          "name": "PLACA DE PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE OC",
+          "price_ars": 760250.0,
+          "url": "https://www.hardgamers.com.ar/product/fullh4rd:dvf1b0",
+          "score": 27,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-20T23:32:35+00:00"
         }
       ]
     },
@@ -453,7 +453,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -467,7 +467,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -481,7 +481,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -495,7 +495,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -509,7 +509,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -523,7 +523,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -537,7 +537,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -551,10 +551,14 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-20T23:29:33+00:00"
+          "collected_at": "2026-10-20T23:32:35+00:00"
         }
       ]
     }
   ],
-  "warnings": []
+  "warnings": [
+    "CompraGamer: el ID 14666 de 'Mother AsRock B550M WiFi AM4' apunta a 'Mother Gigabyte A520M K V2 DDR4 AM4', que no cumple required_terms (faltan: asrock, b550m). Revisar el ID en components.yml.",
+    "CompraGamer: el ID 21515 de 'Memoria Team DDR4 8GB 3200MHz Elite Plus CL22' apunta a 'Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19', que no cumple required_terms (faltan: team, 8gb). Revisar el ID en components.yml.",
+    "CompraGamer: el ID 14722 de 'Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC' apunta a 'Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC', que no cumple required_terms (faltan: RTX, 5050, gigabyte). Revisar el ID en components.yml."
+  ]
 }
