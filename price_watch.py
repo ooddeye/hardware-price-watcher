@@ -17,6 +17,8 @@ from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 import requests
 import yaml
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 
 DEFAULT_HEADERS = {
@@ -31,6 +33,8 @@ ARS = "ARS"
 HARDGAMERS_URL = "https://www.hardgamers.com.ar/search"
 COMPRAGAMER_PRODUCTS_URL = "https://static.compragamer.com/productos"
 TELEGRAM_MESSAGE_LIMIT = 3900
+# Ofertas por debajo de este % del precio objetivo se descartan (cables, errores de carga, etc.)
+DEFAULT_MIN_PRICE_RATIO = 0.40
 
 
 def local_timezone() -> timezone | ZoneInfo:
@@ -59,22 +63,30 @@ class Offer:
     collected_at: str | None = None
 
 
+# ---------------------------------------------------------------------------
+# Normalizacion y matching
+# ---------------------------------------------------------------------------
 def normalize(value: Any) -> str:
+    """Minusculas, sin acentos, solo [a-z0-9] y con letras/numeros separados.
+
+    '8GB' y '8 GB' -> '8 gb'; 'DDR4' -> 'ddr 4'; '2x16' y '2 x 16' -> '2 x 16'.
+    Se aplica igual a nombres y a terminos, asi que el matching es consistente.
+    """
     text = "" if value is None else str(value)
     text = unicodedata.normalize("NFKD", text)
     text = "".join(ch for ch in text if not unicodedata.combining(ch))
     text = text.lower()
     text = re.sub(r"[^a-z0-9]+", " ", text)
+    text = re.sub(r"(?<=\d)(?=[a-z])|(?<=[a-z])(?=\d)", " ", text)
     return re.sub(r"\s+", " ", text).strip()
 
 
 def term_present(haystack_normalized: str, term: str) -> bool:
+    """Coincidencia por limite de palabra (sin fallback a substring)."""
     needle = normalize(term)
     if not needle:
         return True
-    if len(needle) <= 2:
-        return re.search(rf"\b{re.escape(needle)}\b", haystack_normalized) is not None
-    return re.search(rf"\b{re.escape(needle)}\b", haystack_normalized) is not None or needle in haystack_normalized
+    return re.search(rf"(?<![a-z0-9]){re.escape(needle)}(?![a-z0-9])", haystack_normalized) is not None
 
 
 def slugify_compragamer(name: str) -> str:
@@ -84,17 +96,42 @@ def slugify_compragamer(name: str) -> str:
     return re.sub(r"_+", "_", text).strip("_")
 
 
+def to_int(value: Any) -> int | None:
+    try:
+        return int(str(value).strip())
+    except (TypeError, ValueError):
+        return None
+
+
+# ---------------------------------------------------------------------------
+# Precios (soporta 250000, 250000.00, 250.000, 250.000,50, $ 1.234.567, 1,234.56)
+# ---------------------------------------------------------------------------
 def parse_price(value: Any) -> float | None:
-    if value is None:
+    if value is None or isinstance(value, bool):
         return None
     if isinstance(value, (int, float)):
-        return float(value)
-    text = str(value).strip()
+        return float(value) if value > 0 else None
+
+    text = re.sub(r"[^\d.,]", "", str(value))
     if not text:
         return None
-    text = text.replace("$", "").replace(".", "").replace(",", ".")
-    match = re.search(r"\d+(?:\.\d+)?", text)
-    return float(match.group(0)) if match else None
+
+    if "," in text and "." in text:
+        # el ultimo separador es el decimal
+        if text.rfind(",") > text.rfind("."):
+            text = text.replace(".", "").replace(",", ".")
+        else:
+            text = text.replace(",", "")
+    elif "," in text:
+        text = text.replace(",", ".") if re.search(r",\d{1,2}$", text) else text.replace(",", "")
+    elif text.count(".") > 1 or re.search(r"\.\d{3}$", text):
+        text = text.replace(".", "")  # 250.000 -> 250000
+
+    try:
+        price = float(text)
+    except ValueError:
+        return None
+    return price if price > 0 else None
 
 
 def format_ars(value: float | int | None) -> str:
@@ -107,8 +144,27 @@ def markdown_escape(text: str) -> str:
     return text.replace("|", "\\|").replace("\n", " ").strip()
 
 
+# ---------------------------------------------------------------------------
+# HTTP
+# ---------------------------------------------------------------------------
+def make_session(extra_headers: dict[str, str] | None = None) -> requests.Session:
+    session = requests.Session()
+    retry = Retry(
+        total=4,
+        backoff_factor=1.0,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=("GET", "POST"),
+        respect_retry_after_header=True,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    session.headers.update(DEFAULT_HEADERS | (extra_headers or {}))
+    return session
+
+
 def request_text(session: requests.Session, url: str, **kwargs: Any) -> str:
-    response = session.get(url, timeout=30, **kwargs)
+    response = session.get(url, timeout=(5, 30), **kwargs)
     response.raise_for_status()
     return response.text
 
@@ -141,11 +197,16 @@ def component_match_score(component: dict[str, Any], product_name: str, exact_id
     return True, score, "id exacto" if exact_id_match else "terminos"
 
 
-def parse_hardgamers_articles(html: str, component: dict[str, Any], now_iso: str) -> list[Offer]:
+# ---------------------------------------------------------------------------
+# HardGamers
+# ---------------------------------------------------------------------------
+def parse_hardgamers_articles(html: str, component: dict[str, Any], now_iso: str) -> tuple[list[Offer], int]:
+    """Devuelve (ofertas que matchean, total de articulos encontrados en la pagina)."""
     soup = BeautifulSoup(html, "html.parser")
     offers: list[Offer] = []
+    articles = soup.select("article[itemtype='http://schema.org/Product'], article.One-Bit-Product")
 
-    for article in soup.select("article[itemtype='http://schema.org/Product'], article.One-Bit-Product"):
+    for article in articles:
         name_node = article.select_one("[itemprop='name'], .product-name")
         price_node = article.select_one("[itemprop='price']")
         store_node = article.select_one(".store")
@@ -180,7 +241,7 @@ def parse_hardgamers_articles(html: str, component: dict[str, Any], now_iso: str
             )
         )
 
-    return offers
+    return offers, len(articles)
 
 
 def search_hardgamers(
@@ -194,6 +255,8 @@ def search_hardgamers(
     max_pages = int(component.get("hardgamers_pages", source_cfg.get("max_pages", 1)))
     delay = float(source_cfg.get("delay_seconds", 0.7))
     queries = component.get("queries") or [component["name"]]
+    total_articles = 0
+    requests_ok = 0
 
     for query in queries:
         for page in range(1, max_pages + 1):
@@ -205,23 +268,38 @@ def search_hardgamers(
             except requests.RequestException as exc:
                 warnings.append(f"HardGamers fallo para '{query}' pagina {page}: {exc}")
                 break
+            finally:
+                time.sleep(delay)  # rate limit tambien ante errores
 
-            page_offers = parse_hardgamers_articles(html, component, now_iso)
+            requests_ok += 1
+            page_offers, n_articles = parse_hardgamers_articles(html, component, now_iso)
+            total_articles += n_articles
             offers.extend(page_offers)
+            if n_articles == 0:
+                break  # no hay mas paginas
 
-            if page < max_pages:
-                time.sleep(delay)
+    if requests_ok and total_articles == 0:
+        warnings.append(
+            f"HardGamers: 0 articulos parseados para '{component['name']}'. "
+            "Posible cambio de HTML o bloqueo; revisar selectores."
+        )
 
     return dedupe_offers(offers), warnings
 
 
+# ---------------------------------------------------------------------------
+# CompraGamer
+# ---------------------------------------------------------------------------
 def fetch_compragamer_products(session: requests.Session, source_cfg: dict[str, Any]) -> list[dict[str, Any]]:
     url = source_cfg.get("url", COMPRAGAMER_PRODUCTS_URL)
     text = request_text(session, url)
     data = json.loads(text)
     if not isinstance(data, list):
         raise ValueError("El catalogo de CompraGamer no devolvio una lista JSON")
-    return [item for item in data if isinstance(item, dict)]
+    products = [item for item in data if isinstance(item, dict)]
+    if not products:
+        raise ValueError("El catalogo de CompraGamer vino vacio")
+    return products
 
 
 def compragamer_offer_from_product(component: dict[str, Any], product: dict[str, Any], now_iso: str, score: int, matched_by: str) -> Offer | None:
@@ -232,7 +310,10 @@ def compragamer_offer_from_product(component: dict[str, Any], product: dict[str,
 
     name = str(product.get("nombre") or f"Producto {product_id}")
     url = f"https://compragamer.com/producto/{slugify_compragamer(name)}_{product_id}"
-    stock = int(product.get("stock") or 0)
+    try:
+        stock = int(product.get("stock") or 0)
+    except (TypeError, ValueError):
+        stock = 0
     available = bool(product.get("vendible")) and stock > 0
 
     return Offer(
@@ -256,14 +337,17 @@ def search_compragamer(
     component: dict[str, Any],
     source_cfg: dict[str, Any],
     now_iso: str,
-) -> list[Offer]:
+) -> tuple[list[Offer], list[str]]:
     include_out_of_stock = bool(source_cfg.get("include_out_of_stock", False))
-    expected_ids = {int(pid) for pid in component.get("compragamer_ids", [])}
+    expected_ids = {i for i in (to_int(pid) for pid in component.get("compragamer_ids", [])) if i is not None}
+    seen_ids: set[int] = set()
     offers: list[Offer] = []
 
     for product in products:
-        product_id = product.get("id_producto")
+        product_id = to_int(product.get("id_producto"))
         exact_id_match = product_id in expected_ids
+        if exact_id_match:
+            seen_ids.add(product_id)  # type: ignore[arg-type]
         name = str(product.get("nombre") or "")
         matched, score, matched_by = component_match_score(component, name, exact_id_match=exact_id_match)
         if not matched:
@@ -276,9 +360,16 @@ def search_compragamer(
             continue
         offers.append(offer)
 
-    return dedupe_offers(offers)
+    warnings = [
+        f"CompraGamer: el ID {pid} de '{component['name']}' no existe en el catalogo (descontinuado o cambio de ID)."
+        for pid in sorted(expected_ids - seen_ids)
+    ]
+    return dedupe_offers(offers), warnings
 
 
+# ---------------------------------------------------------------------------
+# Consolidacion
+# ---------------------------------------------------------------------------
 def dedupe_offers(offers: list[Offer]) -> list[Offer]:
     by_key: dict[tuple[str, str, str, int], Offer] = {}
     for offer in offers:
@@ -295,18 +386,48 @@ def dedupe_offers(offers: list[Offer]) -> list[Offer]:
     return sorted(by_key.values(), key=lambda item: (item.price_ars, -item.score, item.source, item.store))
 
 
+def drop_suspicious(offers: list[Offer], component: dict[str, Any], config: dict[str, Any]) -> tuple[list[Offer], list[str]]:
+    target = parse_price(component.get("target_price_ars"))
+    if target is None:
+        return offers, []
+    ratio = float(component.get("min_price_ratio", config.get("min_price_ratio", DEFAULT_MIN_PRICE_RATIO)))
+    floor = target * ratio
+    kept = [o for o in offers if o.price_ars >= floor]
+    dropped = [o for o in offers if o.price_ars < floor]
+    warnings = [
+        f"Descartado por precio sospechoso ({format_ars(o.price_ars)} < {format_ars(floor)}): "
+        f"{o.name[:60]} [{o.store}]"
+        for o in dropped
+    ]
+    return kept, warnings
+
+
+def validate_config(config: dict[str, Any]) -> None:
+    components = config.get("components")
+    if not isinstance(components, list) or not components:
+        raise ValueError("Config invalida: falta la lista 'components'")
+    for index, component in enumerate(components):
+        for field in ("name", "target_price_ars", "required_terms"):
+            if field not in component:
+                raise ValueError(f"components[{index}] sin campo obligatorio '{field}'")
+        if parse_price(component["target_price_ars"]) is None:
+            raise ValueError(f"components[{index}] ('{component['name']}'): target_price_ars invalido")
+
+
 def collect_offers(config: dict[str, Any]) -> tuple[dict[str, list[Offer]], list[str]]:
-    session = requests.Session()
-    session.headers.update(DEFAULT_HEADERS | config.get("headers", {}))
+    session = make_session(config.get("headers"))
     now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
     warnings: list[str] = []
 
     sources = config.get("sources", {})
+    cg_cfg = sources.get("compragamer", {})
+    hg_cfg = sources.get("hardgamers", {})
+
     compragamer_products: list[dict[str, Any]] | None = None
-    if sources.get("compragamer", {}).get("enabled", True):
+    if cg_cfg.get("enabled", True):
         try:
-            compragamer_products = fetch_compragamer_products(session, sources.get("compragamer", {}))
-        except Exception as exc:  # noqa: BLE001 - one source failing should not stop the report.
+            compragamer_products = fetch_compragamer_products(session, cg_cfg)
+        except Exception as exc:  # noqa: BLE001 - una fuente caida no frena el reporte.
             warnings.append(f"CompraGamer no se pudo consultar: {exc}")
 
     results: dict[str, list[Offer]] = {}
@@ -314,20 +435,31 @@ def collect_offers(config: dict[str, Any]) -> tuple[dict[str, list[Offer]], list
     for component in config.get("components", []):
         all_offers: list[Offer] = []
 
-        if sources.get("compragamer", {}).get("enabled", True) and compragamer_products is not None:
-            all_offers.extend(search_compragamer(compragamer_products, component, sources.get("compragamer", {}), now_iso))
+        if cg_cfg.get("enabled", True) and compragamer_products is not None:
+            cg_offers, cg_warnings = search_compragamer(compragamer_products, component, cg_cfg, now_iso)
+            all_offers.extend(cg_offers)
+            warnings.extend(cg_warnings)
 
-        if sources.get("hardgamers", {}).get("enabled", True):
-            hg_offers, hg_warnings = search_hardgamers(session, component, sources.get("hardgamers", {}), now_iso)
-            all_offers.extend(hg_offers)
-            warnings.extend(hg_warnings)
+        if hg_cfg.get("enabled", True):
+            try:
+                hg_offers, hg_warnings = search_hardgamers(session, component, hg_cfg, now_iso)
+                all_offers.extend(hg_offers)
+                warnings.extend(hg_warnings)
+            except Exception as exc:  # noqa: BLE001
+                warnings.append(f"HardGamers fallo inesperadamente para '{component['name']}': {exc}")
+
+        offers, suspicious_warnings = drop_suspicious(dedupe_offers(all_offers), component, config)
+        warnings.extend(suspicious_warnings)
 
         max_results = int(component.get("max_results", config.get("max_results_per_component", 8)))
-        results[component["name"]] = dedupe_offers(all_offers)[:max_results]
+        results[component["name"]] = offers[:max_results]
 
     return results, warnings
 
 
+# ---------------------------------------------------------------------------
+# Reportes
+# ---------------------------------------------------------------------------
 def build_markdown_report(config: dict[str, Any], results: dict[str, list[Offer]], warnings: list[str]) -> str:
     generated_at = datetime.now(LOCAL_TZ).strftime("%Y-%m-%d %H:%M:%S %Z")
     lines: list[str] = [
@@ -446,21 +578,24 @@ def split_telegram_message(text: str, limit: int = TELEGRAM_MESSAGE_LIMIT) -> li
     current: list[str] = []
     current_len = 0
 
+    def flush() -> None:
+        nonlocal current, current_len
+        if current:
+            chunks.append("\n".join(current))
+            current, current_len = [], 0
+
     for line in text.splitlines():
+        if len(line) >= limit:  # linea gigante: respetar el orden y partirla
+            flush()
+            chunks.extend(line[i : i + limit] for i in range(0, len(line), limit))
+            continue
         line_len = len(line) + 1
         if current and current_len + line_len > limit:
-            chunks.append("\n".join(current))
-            current = []
-            current_len = 0
-        if line_len > limit:
-            chunks.append(line[:limit])
-            continue
+            flush()
         current.append(line)
         current_len += line_len
 
-    if current:
-        chunks.append("\n".join(current))
-
+    flush()
     return chunks
 
 
@@ -472,7 +607,7 @@ def send_telegram_message(text: str) -> str:
     if not token or not chat_id:
         return "omitido: faltan TELEGRAM_BOT_TOKEN o TELEGRAM_CHAT_ID"
 
-    session = requests.Session()
+    session = make_session()
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     chunks = split_telegram_message(text)
 
@@ -519,6 +654,7 @@ def load_config(path: Path) -> dict[str, Any]:
         data = yaml.safe_load(file)
     if not isinstance(data, dict):
         raise ValueError(f"Config invalida: {path}")
+    validate_config(data)
     return data
 
 
@@ -538,15 +674,7 @@ def main() -> int:
     args.out.write_text(markdown + "\n", encoding="utf-8")
     write_json_report(config, results, warnings, args.json)
 
-    if args.telegram:
-        try:
-            telegram_message = build_telegram_message(config, results, warnings)
-            telegram_status = send_telegram_message(telegram_message)
-            print(f"Telegram: {telegram_status}")
-        except Exception as exc:  # noqa: BLE001 - notification failures should be visible in Actions.
-            print(f"Telegram fallo: {exc}", file=sys.stderr)
-            return 1
-
+    # Primero mostrar resultados, despues notificar (un fallo de Telegram no oculta nada).
     for component in config.get("components", []):
         offers = results.get(component["name"], [])
         if offers:
@@ -559,7 +687,22 @@ def main() -> int:
         for warning in warnings:
             print(f"- {warning}")
 
-    return 0
+    exit_code = 0
+
+    if args.telegram:
+        try:
+            telegram_status = send_telegram_message(build_telegram_message(config, results, warnings))
+            print(f"\nTelegram: {telegram_status}")
+        except Exception as exc:  # noqa: BLE001
+            print(f"\nTelegram fallo: {exc}", file=sys.stderr)
+            exit_code = 1
+
+    # Si no hubo NINGUN resultado y hubo avisos, las fuentes probablemente fallaron: que Actions lo marque rojo.
+    if not any(results.values()) and warnings:
+        print("\nNingun componente tuvo resultados y hubo avisos: posible caida de fuentes.", file=sys.stderr)
+        exit_code = exit_code or 2
+
+    return exit_code
 
 
 if __name__ == "__main__":
