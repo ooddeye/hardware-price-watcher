@@ -1,68 +1,71 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-20 19:50:21 -03
+Generado: 2026-10-20 20:29:45 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
-Precio objetivo unitario: $ 320.000
+Precio objetivo unitario: $ 250.000
 
-Mejor precio: **$ 243.775** en **Acuario Insumos** (OK, dentro del objetivo).
+Mejor precio: **$ 246.000** en **CompraGamer** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 243.775 | - | Acuario Insumos | hardgamers | PROCESADOR AMD RYZEN 7 5700 8 NÚCLEOS 4.6GHZ AM4 SIN VIDEO COOLER | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:inkkr7) |
-| $ 245.999 | - | Venex | hardgamers | PROCESADOR AMD RYZEN 7 5700 8/16 4.6GHZ AM4 SIN VIDEO | - | [ver](https://www.hardgamers.com.ar/product/venex:6d26s0) |
 | $ 246.000 | $ 273.333 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
-| $ 247.581 | - | Enjoy Computer | hardgamers | MICRO PROCESADOR AMD RYZEN 7 5700 AM4 S/VIDEO C/COOLER | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-10370) |
-| $ 249.659 | - | Slot One | hardgamers | MICROPROCESADOR AMD RYZEN 7 5700 S/VIDEO C/COOLER | - | [ver](https://www.hardgamers.com.ar/product/slotOne:2cjuax) |
-| $ 249.750 | - | Gorila Games | hardgamers | PROCESADOR AMD RYZEN 7 5700 AM4 | - | [ver](https://www.hardgamers.com.ar/product/gorilaGames:b86zis) |
-| $ 249.999 | - | Logg | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ 16MB ZEN3 AM4 C/ COOLER | - | [ver](https://www.hardgamers.com.ar/product/logg:rku7d5) |
-| $ 251.749 | - | Gaming City | hardgamers | PROCESADOR AMD RYZEN 7 5700 SIN VIDEO (8C/16T) | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:13855) |
+| $ 252.436 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
+| $ 260.370 | - | Gaming Point | hardgamers | PROCESADOR AMD RYZEN 7 5700 OCTA-CORE 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/gamingPoint:lrkj06) |
+| $ 323.352 | - | BLACK | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO AM4 + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/black:197365) |
+| $ 334.800 | $ 372.000 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700GE 4.6GHz Turbo AM4 + Wraith Stealth Cooler OEM | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700GE_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_OEM_21413) |
 
-## Mother Gigabyte A520M K V2 DDR4 AM4
-
-Precio objetivo unitario: $ 80.000
-
-Mejor precio: **$ 78.054** en **ArmyTech** (OK, dentro del objetivo).
-
-| Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
-|---:|---:|---|---|---|---:|---|
-| $ 78.054 | - | ArmyTech | hardgamers | MOTHER GIGABYTE A520M-K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:507822914) |
-| $ 78.999 | - | Venex | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/venex:l8osdv) |
-| $ 80.300 | - | Compufan Store | hardgamers | MOTHER GIGABYTE A520M K V2 AM4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331852771) |
-| $ 80.479 | - | Acuario Insumos | hardgamers | MOTHERBOARD GIGABYTE A520M-K V2 AM4 DDR4 MICRO ATX | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:b48fc) |
-| $ 81.042 | - | Enjoy Computer | hardgamers | MOTHER GIGABYTE A520M-K V2 1.0 DDR4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-10689) |
-| $ 81.200 | - | Gamer Factory | hardgamers | MOTHERBOARD GIGABYTE A520M K V2 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/gamerfactory:qc1leg) |
-| $ 81.699 | - | Gaming City | hardgamers | MOTHER A520M K V2 GIGABYTE AM4 | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:12224) |
-| $ 82.179 | - | Megasoft | hardgamers | MOTHERBOARD GIGABYTE AM4 A520M K V2 DDR4 MEGASOFT CABALLITO NEGRO | - | [ver](https://www.hardgamers.com.ar/product/megasoft:81cpfa) |
-
-## Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19
+## Mother AsRock B550M WiFi AM4
 
 Precio objetivo unitario: $ 160.000
 
-Mejor precio: **$ 191.250** en **CompraGamer** ($ 31.250 sobre el objetivo).
+Mejor precio: **$ 84.300** en **CompraGamer** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 191.250 | $ 212.500 | CompraGamer | compragamer | Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19 | 10 | [ver](https://compragamer.com/producto/Memoria_Mancer_DDR4_16GB_3200MHz_Vant_S_Black_CL19_21515) |
-| $ 262.125 | - | BLACK | hardgamers | MEMORIA MANCER DDR4 16GB 3200MHZ VANT S BLACK CL19 | - | [ver](https://www.hardgamers.com.ar/product/black:213595) |
+| $ 84.300 | $ 93.667 | CompraGamer | compragamer | Mother Gigabyte A520M K V2 DDR4 AM4 | 10 | [ver](https://compragamer.com/producto/Mother_Gigabyte_A520M_K_V2_DDR4_AM4_14666) |
+| $ 118.695 | $ 131.883 | CompraGamer | compragamer | Mother Asrock B550M-HDV DDR4 AM4 | 10 | [ver](https://compragamer.com/producto/Mother_Asrock_B550M_HDV_DDR4_AM4_10535) |
+| $ 129.615 | - | Noxie Store | hardgamers | MOTHER ASROCK B550M-HDV AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/noxie:bdrkkx) |
+| $ 143.170 | - | Katech | hardgamers | MOTHER ASROCK B550M-HDV AM4 | - | [ver](https://www.hardgamers.com.ar/product/katech:6ttwlm) |
+| $ 151.600 | - | Dinobyte | hardgamers | MOTHERBOARD AM4 ASROCK B550M HDV | - | [ver](https://www.hardgamers.com.ar/product/dinobyte:icyc3r) |
+| $ 153.813 | - | AuraGamer | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:78f7f7) |
+| $ 153.814 | - | Hardloots | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/hardloots:wa8jlc) |
+| $ 154.300 | - | The Gamer Shop | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:4cdsq5) |
 
-## Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC
+## Memoria Team DDR4 8GB 3200MHz Elite Plus CL22
 
-Precio objetivo unitario: $ 520.000
+Precio objetivo unitario: $ 110.000
 
-Mejor precio: **$ 534.900** en **CompraGamer** ($ 14.900 sobre el objetivo).
+Mejor precio: **$ 108.716** en **CompraGamer** (OK, dentro del objetivo).
+
+| Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
+|---:|---:|---|---|---|---:|---|
+| $ 108.716 | $ 120.796 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz Elite Plus CL22 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_Elite_Plus_CL22_10107) |
+| $ 118.008 | $ 131.120 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Z_Grey_CL16_13905) |
+| $ 129.400 | $ 143.778 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_7523) |
+| $ 146.600 | - | The Gamer Shop | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:i77f5l) |
+| $ 147.195 | - | SilverHard | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/silverHard:hx03xv) |
+| $ 149.005 | - | BLACK | hardgamers | MEMORIA TEAM DDR4 8GB 3200MHZ ELITE PLUS CL22 | - | [ver](https://www.hardgamers.com.ar/product/black:213852) |
+| $ 150.199 | - | SCP Hardstore | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:MEM633) |
+| $ 151.011 | - | BracaTech | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/bracatech:pzhmfk) |
+
+## Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC
+
+Precio objetivo unitario: $ 640.000
+
+Mejor precio: **$ 534.900** en **CompraGamer** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 534.900 | $ 594.333 | CompraGamer | compragamer | Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Asrock_Radeon_RX_7600_8GB_GDDR6_Challenger_OC_14722) |
-| $ 574.050 | - | Compufan Store | hardgamers | PLACA DE VIDEO ASROCK CHALLENGER RX 7600 8GB GDDR6 OC | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4710483942037) |
-| $ 645.963 | - | AuraGamer | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/auragamer:2l455c) |
-| $ 645.963 | - | Hardloots | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/hardloots:xw946l) |
-| $ 651.275 | - | Crosshair Gaming | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:vsyhh2) |
-| $ 656.714 | - | SilverHard | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 CHALLENGER OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:pdlejz) |
-| $ 658.039 | - | TryHardware | hardgamers | PLACA DE VIDEO ASROCK RADEON RX 7600 8GB GDDR6 CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:gkob6p) |
-| $ 659.776 | - | IgnaTech | hardgamers | PLACA DE VIDEO ASROCK RX 7600 8GB CHALLENGER | - | [ver](https://www.hardgamers.com.ar/product/ignatech:12235) |
+| $ 659.999 | - | RM Insumos | hardgamers | GIGABYTE RTX 5050 WINDFORCE WF 8GB GDDR6 OC GEFORCE NVIDIA PLACA DE VIDEO | - | [ver](https://www.hardgamers.com.ar/product/rminsumos:6204) |
+| $ 664.950 | $ 738.833 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_Windforce_OC_21096) |
+| $ 698.000 | $ 775.556 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB GAMING OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_GAMING_OC_21438) |
+| $ 701.300 | - | Compufan Store | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 8GB GDDR6 WINDFORCE OC V2 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331356996) |
+| $ 725.178 | - | ArmyTech | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE V2 OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/armyTech:74479513) |
+| $ 739.999 | - | Logg | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 128BIT PCIE 5.0 | - | [ver](https://www.hardgamers.com.ar/product/logg:u2m12t) |
+| $ 751.817 | - | SilverHard | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:s51sdn) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
@@ -75,9 +78,9 @@ Mejor precio: **$ 265.029** en **SilverHard** (OK, dentro del objetivo).
 | $ 265.029 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
 | $ 265.996 | - | Acuario Insumos | hardgamers | DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj) |
 | $ 267.994 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
-| $ 269.563 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
+| $ 270.438 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 271.550 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
-| $ 274.263 | - | Noxie Store | hardgamers | DISCO SOLIDO 1TB SSD KINGSTON SNV3S M.2 NVME | - | [ver](https://www.hardgamers.com.ar/product/noxie:apqg2e) |
 | $ 278.707 | - | IgnaTech | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/ignatech:6151) |
 | $ 279.165 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
+| $ 279.480 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
 
