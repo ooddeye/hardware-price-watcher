@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-21 13:20:19 -03
+Generado: 2026-10-21 19:54:36 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -30,7 +30,7 @@ Mejor precio: **$ 118.695** en **CompraGamer** (OK, dentro del objetivo).
 | $ 153.813 | - | AuraGamer | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:78f7f7) |
 | $ 153.814 | - | Hardloots | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/hardloots:wa8jlc) |
 | $ 154.300 | - | The Gamer Shop | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:4cdsq5) |
-| $ 154.739 | - | TryHardware | hardgamers | MOTHER ASROCK B550M PHANTOM GAMING 4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:x4mt46) |
+| $ 154.920 | - | SilverHard | hardgamers | MOTHER ASROCK B550M PHANTOM GAMING 4 - AM4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:dvcly3) |
 
 ## Memoria Team DDR4 8GB 3200MHz Elite Plus CL22
 
@@ -79,9 +79,9 @@ Mejor precio: **$ 265.029** en **SilverHard** (OK, dentro del objetivo).
 | $ 267.994 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 | $ 270.438 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 271.550 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
-| $ 278.707 | - | IgnaTech | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/ignatech:6151) |
 | $ 279.165 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
 | $ 279.480 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
+| $ 279.990 | - | Venex | hardgamers | DISCO S�LIDO SSD KINGSTON NV3 1TB M.2 NVME PCIE 4.0 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/venex:b40ooc) |
 
 ## Avisos
 
