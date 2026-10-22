@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:19:23+00:00",
+  "generated_at": "2026-10-22T22:53:06+00:00",
   "currency": "ARS",
   "components": [
     {
@@ -19,21 +19,21 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 274222.0,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
           "source": "hardgamers",
           "store": "Amonpul Team",
           "name": "PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER",
-          "price_ars": 252436.0,
+          "price_ars": 253253.0,
           "url": "https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b",
           "score": 24,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -47,7 +47,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -61,7 +61,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -75,7 +75,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 373222.0,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         }
       ]
     },
@@ -96,7 +96,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 132306.0,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -110,35 +110,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
-        },
-        {
-          "component": "Mother AsRock B550M WiFi AM4",
-          "source": "hardgamers",
-          "store": "Katech",
-          "name": "MOTHER ASROCK B550M-HDV AM4",
-          "price_ars": 143170.0,
-          "url": "https://www.hardgamers.com.ar/product/katech:6ttwlm",
-          "score": 18,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
           "source": "hardgamers",
           "store": "Dinobyte",
           "name": "MOTHERBOARD AM4 ASROCK B550M HDV",
-          "price_ars": 151600.0,
+          "price_ars": 152100.0,
           "url": "https://www.hardgamers.com.ar/product/dinobyte:icyc3r",
           "score": 17,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -152,7 +138,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -166,7 +152,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -180,21 +166,35 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
           "source": "hardgamers",
-          "store": "SilverHard",
-          "name": "MOTHER ASROCK B550M PHANTOM GAMING 4 - AM4",
-          "price_ars": 154920.0,
-          "url": "https://www.hardgamers.com.ar/product/silverHard:dvcly3",
+          "store": "Enjoy Computer",
+          "name": "MOTHER ASROCK B550M PHANTOM GAMING 4 DDR4 AM4",
+          "price_ars": 155170.0,
+          "url": "https://www.hardgamers.com.ar/product/enjoyComputer:wc-27258",
           "score": 18,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
+        },
+        {
+          "component": "Mother AsRock B550M WiFi AM4",
+          "source": "hardgamers",
+          "store": "TryHardware",
+          "name": "MOTHER ASROCK B550M PHANTOM GAMING 4 AM4",
+          "price_ars": 155239.0,
+          "url": "https://www.hardgamers.com.ar/product/tryHardware:x4mt46",
+          "score": 18,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-22T22:52:54+00:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "score": 26,
           "matched_by": "terminos",
           "available": true,
-          "stock": 10,
+          "stock": 6,
           "list_price_ars": 121183.0,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -229,7 +229,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 131517.0,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -243,7 +243,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 144278.0,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -257,49 +257,49 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
           "source": "hardgamers",
           "store": "SilverHard",
           "name": "MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE",
-          "price_ars": 147195.0,
+          "price_ars": 147671.0,
           "url": "https://www.hardgamers.com.ar/product/silverHard:hx03xv",
           "score": 25,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
           "source": "hardgamers",
           "store": "BLACK",
           "name": "MEMORIA TEAM DDR4 8GB 3200MHZ ELITE PLUS CL22",
-          "price_ars": 149005.0,
+          "price_ars": 149483.0,
           "url": "https://www.hardgamers.com.ar/product/black:213852",
           "score": 26,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
           "source": "hardgamers",
           "store": "SCP Hardstore",
           "name": "MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE",
-          "price_ars": 150199.0,
+          "price_ars": 150685.0,
           "url": "https://www.hardgamers.com.ar/product/scpHardStore:MEM633",
           "score": 25,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -313,7 +313,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         }
       ]
     },
@@ -334,7 +334,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -348,7 +348,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 741222.0,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -362,7 +362,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 778111.0,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -376,21 +376,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
           "source": "hardgamers",
           "store": "ArmyTech",
           "name": "PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE V2 OC 8GB",
-          "price_ars": 725178.0,
+          "price_ars": 727525.0,
           "url": "https://www.hardgamers.com.ar/product/armyTech:74479513",
           "score": 27,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -404,21 +404,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
           "source": "hardgamers",
           "store": "SilverHard",
           "name": "PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB",
-          "price_ars": 751817.0,
+          "price_ars": 754250.0,
           "url": "https://www.hardgamers.com.ar/product/silverHard:s51sdn",
           "score": 27,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -432,7 +432,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         }
       ]
     },
@@ -453,49 +453,49 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
-        },
-        {
-          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
-          "source": "hardgamers",
-          "store": "Acuario Insumos",
-          "name": "DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB",
-          "price_ars": 265996.0,
-          "url": "https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj",
-          "score": 18,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
           "source": "hardgamers",
           "store": "Amonpul Team",
           "name": "SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G",
-          "price_ars": 267994.0,
+          "price_ars": 268861.0,
           "url": "https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb",
           "score": 18,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
+        },
+        {
+          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
+          "source": "hardgamers",
+          "store": "Acuario Insumos",
+          "name": "DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB",
+          "price_ars": 269428.0,
+          "url": "https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj",
+          "score": 18,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
           "source": "hardgamers",
           "store": "SCP Hardstore",
           "name": "DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4",
-          "price_ars": 270438.0,
+          "price_ars": 271313.0,
           "url": "https://www.hardgamers.com.ar/product/scpHardStore:SM242",
           "score": 17,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -509,21 +509,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
-        },
-        {
-          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
-          "source": "hardgamers",
-          "store": "ArmyTech",
-          "name": "DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4",
-          "price_ars": 279165.0,
-          "url": "https://www.hardgamers.com.ar/product/armyTech:539846107",
-          "score": 18,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -537,7 +523,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -551,7 +537,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-22T16:19:11+00:00"
+          "collected_at": "2026-10-22T22:52:54+00:00"
+        },
+        {
+          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
+          "source": "hardgamers",
+          "store": "ArmyTech",
+          "name": "DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4",
+          "price_ars": 280069.0,
+          "url": "https://www.hardgamers.com.ar/product/armyTech:539846107",
+          "score": 18,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-22T22:52:54+00:00"
         }
       ]
     }
