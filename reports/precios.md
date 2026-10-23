@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-22 19:53:06 -03
+Generado: 2026-10-22 23:37:52 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -26,12 +26,12 @@ Mejor precio: **$ 119.075** en **CompraGamer** (OK, dentro del objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 119.075 | $ 132.306 | CompraGamer | compragamer | Mother Asrock B550M-HDV DDR4 AM4 | 10 | [ver](https://compragamer.com/producto/Mother_Asrock_B550M_HDV_DDR4_AM4_10535) |
 | $ 129.615 | - | Noxie Store | hardgamers | MOTHER ASROCK B550M-HDV AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/noxie:bdrkkx) |
+| $ 143.630 | - | Katech | hardgamers | MOTHER ASROCK B550M-HDV AM4 | - | [ver](https://www.hardgamers.com.ar/product/katech:6ttwlm) |
 | $ 152.100 | - | Dinobyte | hardgamers | MOTHERBOARD AM4 ASROCK B550M HDV | - | [ver](https://www.hardgamers.com.ar/product/dinobyte:icyc3r) |
 | $ 154.311 | - | AuraGamer | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:78f7f7) |
 | $ 154.312 | - | Hardloots | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/hardloots:wa8jlc) |
 | $ 154.800 | - | The Gamer Shop | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:4cdsq5) |
 | $ 155.170 | - | Enjoy Computer | hardgamers | MOTHER ASROCK B550M PHANTOM GAMING 4 DDR4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-27258) |
-| $ 155.239 | - | TryHardware | hardgamers | MOTHER ASROCK B550M PHANTOM GAMING 4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:x4mt46) |
 
 ## Memoria Team DDR4 8GB 3200MHz Elite Plus CL22
 
@@ -41,7 +41,7 @@ Mejor precio: **$ 109.065** en **CompraGamer** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 109.065 | $ 121.183 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz Elite Plus CL22 | 6 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_Elite_Plus_CL22_10107) |
+| $ 109.065 | $ 121.183 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz Elite Plus CL22 | 3 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_Elite_Plus_CL22_10107) |
 | $ 118.365 | $ 131.517 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Z_Grey_CL16_13905) |
 | $ 129.850 | $ 144.278 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_7523) |
 | $ 147.100 | - | The Gamer Shop | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:i77f5l) |
