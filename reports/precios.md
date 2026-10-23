@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-23 05:57:18 -03
+Generado: 2026-10-23 13:09:16 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -12,7 +12,7 @@ Mejor precio: **$ 246.800** en **CompraGamer** (OK, dentro del objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 246.800 | $ 274.222 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
 | $ 253.253 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
-| $ 261.210 | - | Gaming Point | hardgamers | PROCESADOR AMD RYZEN 7 5700 OCTA-CORE 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/gamingPoint:cv8pfd) |
+| $ 261.210 | - | Gaming Point | hardgamers | PROCESADOR AMD RYZEN 7 5700 OCTA-CORE 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/gamingPoint:lrkj06) |
 | $ 323.352 | - | BLACK | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO AM4 + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/black:197365) |
 | $ 335.900 | $ 373.222 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700GE 4.6GHz Turbo AM4 + Wraith Stealth Cooler OEM | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700GE_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_OEM_21413) |
 
@@ -37,11 +37,10 @@ Mejor precio: **$ 119.075** en **CompraGamer** (OK, dentro del objetivo).
 
 Precio objetivo unitario: $ 110.000
 
-Mejor precio: **$ 109.065** en **CompraGamer** (OK, dentro del objetivo).
+Mejor precio: **$ 118.365** en **CompraGamer** ($ 8.365 sobre el objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 109.065 | $ 121.183 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz Elite Plus CL22 | 1 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_Elite_Plus_CL22_10107) |
 | $ 118.365 | $ 131.517 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Z_Grey_CL16_13905) |
 | $ 129.850 | $ 144.278 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_7523) |
 | $ 147.100 | - | The Gamer Shop | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:i77f5l) |
@@ -49,6 +48,7 @@ Mejor precio: **$ 109.065** en **CompraGamer** (OK, dentro del objetivo).
 | $ 150.685 | - | SCP Hardstore | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:MEM633) |
 | $ 151.500 | - | BracaTech | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/bracatech:pzhmfk) |
 | $ 151.500 | - | Crosshair Gaming | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:tqtbr1) |
+| $ 152.906 | - | IgnaTech | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/ignatech:8145) |
 
 ## Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC
 
