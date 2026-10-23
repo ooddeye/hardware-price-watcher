@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:09:16+00:00",
+  "generated_at": "2026-10-23T22:45:33+00:00",
   "currency": "ARS",
   "components": [
     {
@@ -19,7 +19,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 274222.0,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -33,7 +33,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -47,7 +47,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -61,7 +61,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -75,7 +75,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 373222.0,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         }
       ]
     },
@@ -96,7 +96,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 132306.0,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -110,7 +110,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -124,7 +124,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -138,63 +138,63 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
+        },
+        {
+          "component": "Mother AsRock B550M WiFi AM4",
+          "source": "compragamer",
+          "store": "CompraGamer",
+          "name": "Mother AsRock B550M WiFi AM4",
+          "price_ars": 159997.0,
+          "url": "https://compragamer.com/producto/Mother_AsRock_B550M_WiFi_AM4_21581",
+          "score": 19,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": 10,
+          "list_price_ars": 177774.0,
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
           "source": "hardgamers",
-          "store": "AuraGamer",
-          "name": "MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4",
-          "price_ars": 154311.0,
-          "url": "https://www.hardgamers.com.ar/product/auragamer:78f7f7",
+          "store": "MyM Computacion",
+          "name": "MOTHERBOARD AMD ASROCK B550M PHANTOM GAMING 4 AM4",
+          "price_ars": 162250.0,
+          "url": "https://www.hardgamers.com.ar/product/mmcomputacion:fcstbc",
+          "score": 17,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-23T22:45:20+00:00"
+        },
+        {
+          "component": "Mother AsRock B550M WiFi AM4",
+          "source": "hardgamers",
+          "store": "BLACK",
+          "name": "MOTHER ASROCK B550M-HDV DDR4 AM4",
+          "price_ars": 163203.0,
+          "url": "https://www.hardgamers.com.ar/product/black:204792",
           "score": 18,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
           "source": "hardgamers",
-          "store": "Hardloots",
-          "name": "MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4",
-          "price_ars": 154312.0,
-          "url": "https://www.hardgamers.com.ar/product/hardloots:wa8jlc",
-          "score": 18,
+          "store": "RM Insumos",
+          "name": "ASROCK AM4 B550M PHANTOM GAMING 4 MOTHERBOARD",
+          "price_ars": 165999.0,
+          "url": "https://www.hardgamers.com.ar/product/rminsumos:2078",
+          "score": 17,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
-        },
-        {
-          "component": "Mother AsRock B550M WiFi AM4",
-          "source": "hardgamers",
-          "store": "The Gamer Shop",
-          "name": "MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4",
-          "price_ars": 154800.0,
-          "url": "https://www.hardgamers.com.ar/product/thegamershop:4cdsq5",
-          "score": 18,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
-        },
-        {
-          "component": "Mother AsRock B550M WiFi AM4",
-          "source": "hardgamers",
-          "store": "Enjoy Computer",
-          "name": "MOTHER ASROCK B550M PHANTOM GAMING 4 DDR4 AM4",
-          "price_ars": 155170.0,
-          "url": "https://www.hardgamers.com.ar/product/enjoyComputer:wc-27258",
-          "score": 18,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         }
       ]
     },
@@ -207,6 +207,20 @@
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
           "source": "compragamer",
           "store": "CompraGamer",
+          "name": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
+          "price_ars": 109065.0,
+          "url": "https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_Elite_Plus_CL22_10107",
+          "score": 26,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": 2,
+          "list_price_ars": 121183.0,
+          "collected_at": "2026-10-23T22:45:20+00:00"
+        },
+        {
+          "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
+          "source": "compragamer",
+          "store": "CompraGamer",
           "name": "Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16",
           "price_ars": 118365.0,
           "url": "https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Z_Grey_CL16_13905",
@@ -215,7 +229,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 131517.0,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -229,7 +243,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 144278.0,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -243,7 +257,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -257,7 +271,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -271,7 +285,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -285,7 +299,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -299,21 +313,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
-        },
-        {
-          "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
-          "source": "hardgamers",
-          "store": "IgnaTech",
-          "name": "MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V",
-          "price_ars": 152906.0,
-          "url": "https://www.hardgamers.com.ar/product/ignatech:8145",
-          "score": 25,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         }
       ]
     },
@@ -334,7 +334,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -348,7 +348,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 741222.0,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -362,7 +362,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 778111.0,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -376,7 +376,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -390,7 +390,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -404,7 +404,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -418,7 +418,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -432,7 +432,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         }
       ]
     },
@@ -453,7 +453,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -467,7 +467,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -481,7 +481,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -495,7 +495,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -509,21 +509,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
-        },
-        {
-          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
-          "source": "hardgamers",
-          "store": "Enjoy Computer",
-          "name": "DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G",
-          "price_ars": 279480.0,
-          "url": "https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674",
-          "score": 18,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -537,7 +523,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -551,7 +537,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-10-23T16:09:02+00:00"
+          "collected_at": "2026-10-23T22:45:20+00:00"
+        },
+        {
+          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
+          "source": "hardgamers",
+          "store": "Enjoy Computer",
+          "name": "DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G",
+          "price_ars": 280360.0,
+          "url": "https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674",
+          "score": 18,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-10-23T22:45:20+00:00"
         }
       ]
     }
