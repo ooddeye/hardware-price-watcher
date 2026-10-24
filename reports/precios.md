@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-24 12:05:24 -03
+Generado: 2026-10-24 15:27:47 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -11,9 +11,9 @@ Mejor precio: **$ 246.800** en **CompraGamer** (OK, dentro del objetivo).
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 246.800 | $ 274.222 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
-| $ 253.253 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
+| $ 259.555 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
 | $ 261.210 | - | Gaming Point | hardgamers | PROCESADOR AMD RYZEN 7 5700 OCTA-CORE 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/gamingPoint:lrkj06) |
-| $ 323.352 | - | BLACK | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO AM4 + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/black:197365) |
+| $ 331.400 | - | BLACK | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO AM4 + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/black:197365) |
 | $ 335.900 | $ 373.222 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700GE 4.6GHz Turbo AM4 + Wraith Stealth Cooler OEM | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700GE_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_OEM_21413) |
 
 ## Mother AsRock B550M WiFi AM4
