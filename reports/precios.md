@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-25 05:49:56 -03
+Generado: 2026-10-25 12:17:41 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -63,9 +63,9 @@ Mejor precio: **$ 659.999** en **RM Insumos** ($ 19.999 sobre el objetivo).
 | $ 701.300 | - | Compufan Store | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 8GB GDDR6 WINDFORCE OC V2 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331356996) |
 | $ 721.300 | $ 801.444 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB GAMING OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_GAMING_OC_21438) |
 | $ 727.525 | - | ArmyTech | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE V2 OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/armyTech:74479513) |
-| $ 739.999 | - | Logg | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 128BIT PCIE 5.0 | - | [ver](https://www.hardgamers.com.ar/product/logg:u2m12t) |
 | $ 754.250 | - | SilverHard | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:s51sdn) |
 | $ 760.250 | - | Full H4rd | hardgamers | PLACA DE PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE OC | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvf1b0) |
+| $ 760.250 | - | XT-PC | hardgamers | PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE OC | - | [ver](https://www.hardgamers.com.ar/product/xtpc:vfa8tt) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
@@ -81,8 +81,8 @@ Mejor precio: **$ 269.428** en **Acuario Insumos** (OK, dentro del objetivo).
 | $ 280.069 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
 | $ 285.824 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 | $ 287.015 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
-| $ 287.490 | - | Full H4rd | hardgamers | HD SSD 1TB KINGSTON SNVS NV3 M2 NVME GEN4 6000MB/S 2280 Q NV2 | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvugp2) |
 | $ 289.999 | - | Logg | hardgamers | DISCO SÓLIDO SSD KINGSTON NV3 1TB M.2 2280 NVME PCIE GEN4X4 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/logg:czx1x) |
+| $ 290.200 | - | MyM Computacion | hardgamers | ALMACENAMIENTO DISCO SOLIDO SSD NVME KINGSTON 1TB NV3 PCIE 4.0 M.2 SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/mmcomputacion:webpyb) |
 
 ## Avisos
 
