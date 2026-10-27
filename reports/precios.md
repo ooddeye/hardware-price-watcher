@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-26 23:58:56 -03
+Generado: 2026-10-27 06:27:48 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -61,8 +61,8 @@ Mejor precio: **$ 658.990** en **CompraGamer** ($ 18.990 sobre el objetivo).
 | $ 725.950 | $ 806.611 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB GAMING OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_GAMING_OC_21438) |
 | $ 732.219 | - | ArmyTech | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE V2 OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/armyTech:74479513) |
 | $ 739.999 | - | Logg | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 128BIT PCIE 5.0 | - | [ver](https://www.hardgamers.com.ar/product/logg:u2m12t) |
-| $ 788.050 | - | Enjoy Computer | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 8GB WINDFORCE OC V2 GV-N5050WF2OCV2-8GD | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-26375) |
-| $ 788.444 | - | SilverHard | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/silverHard:s51sdn) |
+| $ 772.230 | - | XT-PC | hardgamers | PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE V2 OC | - | [ver](https://www.hardgamers.com.ar/product/xtpc:q04rey) |
+| $ 789.990 | - | Gezatek | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/gezatek:v0mgzp) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
