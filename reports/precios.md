@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-27 06:27:48 -03
+Generado: 2026-10-27 14:03:51 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -27,8 +27,10 @@ Mejor precio: **$ 119.882** en **CompraGamer** (OK, dentro del objetivo).
 | $ 129.615 | - | Noxie Store | hardgamers | MOTHER ASROCK B550M-HDV AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/noxie:bdrkkx) |
 | $ 144.550 | - | Katech | hardgamers | MOTHER ASROCK B550M-HDV AM4 | - | [ver](https://www.hardgamers.com.ar/product/katech:6ttwlm) |
 | $ 153.100 | - | Dinobyte | hardgamers | MOTHERBOARD AM4 ASROCK B550M HDV | - | [ver](https://www.hardgamers.com.ar/product/dinobyte:icyc3r) |
-| $ 161.012 | $ 178.902 | CompraGamer | compragamer | Mother AsRock B550M WiFi AM4 | 10 | [ver](https://compragamer.com/producto/Mother_AsRock_B550M_WiFi_AM4_21581) |
-| $ 163.300 | - | MyM Computacion | hardgamers | MOTHERBOARD AMD ASROCK B550M PHANTOM GAMING 4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/mmcomputacion:fcstbc) |
+| $ 155.307 | - | AuraGamer | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:78f7f7) |
+| $ 155.307 | - | Hardloots | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/hardloots:wa8jlc) |
+| $ 156.660 | - | Enjoy Computer | hardgamers | MOTHER ASROCK B550M PHANTOM GAMING 4 DDR4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-27258) |
+| $ 156.749 | - | TryHardware | hardgamers | MOTHER ASROCK B550M PHANTOM GAMING 4 AM4 | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:x4mt46) |
 
 ## Memoria Team DDR4 8GB 3200MHz Elite Plus CL22
 
@@ -61,8 +63,8 @@ Mejor precio: **$ 658.990** en **CompraGamer** ($ 18.990 sobre el objetivo).
 | $ 725.950 | $ 806.611 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB GAMING OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_GAMING_OC_21438) |
 | $ 732.219 | - | ArmyTech | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE V2 OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/armyTech:74479513) |
 | $ 739.999 | - | Logg | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 128BIT PCIE 5.0 | - | [ver](https://www.hardgamers.com.ar/product/logg:u2m12t) |
+| $ 772.230 | - | Full H4rd | hardgamers | PLACA DE PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE V2 OC | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvf1uw) |
 | $ 772.230 | - | XT-PC | hardgamers | PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE V2 OC | - | [ver](https://www.hardgamers.com.ar/product/xtpc:q04rey) |
-| $ 789.990 | - | Gezatek | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/gezatek:v0mgzp) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
@@ -76,10 +78,10 @@ Mejor precio: **$ 269.428** en **Acuario Insumos** (OK, dentro del objetivo).
 | $ 274.200 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
 | $ 279.990 | - | Venex | hardgamers | DISCO S�LIDO SSD KINGSTON NV3 1TB M.2 NVME PCIE 4.0 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/venex:b40ooc) |
 | $ 281.876 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
+| $ 287.340 | - | IgnaTech | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/ignatech:6151) |
 | $ 287.668 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 | $ 288.885 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
 | $ 289.999 | - | Logg | hardgamers | DISCO SÓLIDO SSD KINGSTON NV3 1TB M.2 2280 NVME PCIE GEN4X4 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/logg:czx1x) |
-| $ 292.150 | - | MyM Computacion | hardgamers | ALMACENAMIENTO DISCO SOLIDO SSD NVME KINGSTON 1TB NV3 PCIE 4.0 M.2 SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/mmcomputacion:webpyb) |
 
 ## Avisos
 
