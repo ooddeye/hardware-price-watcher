@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-27 20:22:28 -03
+Generado: 2026-10-28 00:09:09 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -65,7 +65,7 @@ Mejor precio: **$ 658.990** en **CompraGamer** ($ 18.990 sobre el objetivo).
 | $ 732.219 | - | ArmyTech | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE V2 OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/armyTech:74479513) |
 | $ 739.999 | - | Logg | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 128BIT PCIE 5.0 | - | [ver](https://www.hardgamers.com.ar/product/logg:u2m12t) |
 | $ 772.230 | - | Full H4rd | hardgamers | PLACA DE PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE V2 OC | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvf1uw) |
-| $ 772.230 | - | XT-PC | hardgamers | PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE V2 OC | - | [ver](https://www.hardgamers.com.ar/product/xtpc:q04rey) |
+| $ 789.990 | - | Gezatek | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/gezatek:v0mgzp) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
