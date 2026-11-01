@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-10-31 19:56:24 -03
+Generado: 2026-11-01 00:22:23 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -20,12 +20,12 @@ Mejor precio: **$ 237.980** en **CompraGamer** (OK, dentro del objetivo).
 
 Precio objetivo unitario: $ 160.000
 
-Mejor precio: **$ 127.900** en **CompraGamer** (OK, dentro del objetivo).
+Mejor precio: **$ 129.615** en **Noxie Store** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 127.900 | $ 142.111 | CompraGamer | compragamer | Mother Asrock B550M-HDV DDR4 AM4 | 10 | [ver](https://compragamer.com/producto/Mother_Asrock_B550M_HDV_DDR4_AM4_10535) |
 | $ 129.615 | - | Noxie Store | hardgamers | MOTHER ASROCK B550M-HDV AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/noxie:bdrkkx) |
+| $ 134.641 | $ 149.601 | CompraGamer | compragamer | Mother Asrock B550M-HDV DDR4 AM4 | 10 | [ver](https://compragamer.com/producto/Mother_Asrock_B550M_HDV_DDR4_AM4_10535) |
 | $ 144.550 | - | Katech | hardgamers | MOTHER ASROCK B550M-HDV AM4 | - | [ver](https://www.hardgamers.com.ar/product/katech:6ttwlm) |
 | $ 153.100 | - | Dinobyte | hardgamers | MOTHERBOARD AM4 ASROCK B550M HDV | - | [ver](https://www.hardgamers.com.ar/product/dinobyte:icyc3r) |
 | $ 155.307 | - | AuraGamer | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:78f7f7) |
