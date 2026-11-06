@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-06 15:41:45 -03
+Generado: 2026-11-06 20:53:11 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -43,12 +43,12 @@ Mejor precio: **$ 111.092** en **CompraGamer** ($ 1.092 sobre el objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 111.092 | $ 123.436 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Grey_CL16_21382) |
 | $ 131.500 | $ 146.111 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_7523) |
-| $ 149.577 | - | SilverHard | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/silverHard:hx03xv) |
-| $ 151.300 | - | The Gamer Shop | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:i77f5l) |
-| $ 152.629 | - | SCP Hardstore | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:MEM633) |
-| $ 153.455 | - | BracaTech | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/bracatech:pzhmfk) |
-| $ 153.455 | - | Crosshair Gaming | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:tqtbr1) |
-| $ 153.950 | - | Enjoy Computer | hardgamers | MEMORIA 8GB DDR4 3200MHZ TEAM GROUP ELITE CL22 1.2V TED48G3200C2201 | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-38663) |
+| $ 162.500 | - | Gorila Games | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/gorilaGames:6w4hlc) |
+| $ 170.505 | - | Max Tecno | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/maxTecno:z3okgh) |
+| $ 180.232 | - | BLACK | hardgamers | MEMORIA DDR4 8GB 3200MHZ TEAM GROUP VULCAN ASUS TUF ALLIANCE CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:220540) |
+| $ 254.050 | $ 282.278 | CompraGamer | compragamer | Memoria Team DDR4 16GB (2x8GB) 3200MHz Vulcan Z Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_16GB_2x8GB_3200MHz_Vulcan_Z_Grey_CL16_19461) |
+| $ 348.198 | - | BLACK | hardgamers | MEMORIA DDR4 16GB 3200MHZ TEAM GROUP (2X8GB) VULCAN Z GREY CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:215570) |
+| $ 799.075 | $ 887.861 | CompraGamer | compragamer | Kit Procesador Intel Core I7 12700 4.9GHz Turbo (Con Video Integrado) + Mother ASUS PRIME H610M-K CSM DDR4 S1700 + Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Kit_Procesador_Intel_Core_I7_12700_4_9GHz_Turbo_Con_Video_Integrado_Mother_ASUS_PRIME_H610M_K_CSM_DDR4_S1700_Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_17519) |
 
 ## Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC
 
@@ -82,7 +82,7 @@ Mejor precio: **$ 264.997** en **Acuario Insumos** (OK, dentro del objetivo).
 | $ 280.250 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
 | $ 280.867 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
 | $ 282.880 | - | Crosshair Gaming | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:is4vea) |
-| $ 283.556 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
+| $ 284.022 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 
 ## Avisos
 
