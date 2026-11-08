@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-08 07:54:47 -03
+Generado: 2026-11-08 14:24:46 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -76,13 +76,13 @@ Mejor precio: **$ 264.997** en **Acuario Insumos** (OK, dentro del objetivo).
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 264.997 | - | Acuario Insumos | hardgamers | DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj) |
-| $ 268.990 | - | Venex | hardgamers | DISCO S�LIDO SSD KINGSTON NV3 1TB M.2 NVME PCIE 4.0 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/venex:b40ooc) |
 | $ 269.999 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
 | $ 271.709 | $ 301.899 | CompraGamer | compragamer | Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4 | 10 | [ver](https://compragamer.com/producto/Disco_Solido_SSD_M_2_Kingston_1TB_NV3_6000MB_s_NVMe_PCI_E_Gen4_x4_16872) |
 | $ 280.250 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
 | $ 280.867 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
 | $ 282.880 | - | Crosshair Gaming | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:is4vea) |
 | $ 284.022 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
+| $ 286.599 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 
 ## Avisos
 
