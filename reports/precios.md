@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-08 14:24:46 -03
+Generado: 2026-11-08 20:18:37 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
