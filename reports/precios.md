@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-09 09:21:08 -03
+Generado: 2026-11-09 20:54:53 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -37,11 +37,11 @@ Mejor precio: **$ 124.999** en **Noxie Store** (OK, dentro del objetivo).
 
 Precio objetivo unitario: $ 110.000
 
-Mejor precio: **$ 124.750** en **CompraGamer** ($ 14.750 sobre el objetivo).
+Mejor precio: **$ 118.000** en **CompraGamer** ($ 8.000 sobre el objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 124.750 | $ 138.611 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Grey_CL16_21382) |
+| $ 118.000 | $ 131.111 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Grey_CL16_21382) |
 | $ 131.500 | $ 146.111 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_7523) |
 | $ 162.500 | - | Gorila Games | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/gorilaGames:6w4hlc) |
 | $ 170.505 | - | Max Tecno | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/maxTecno:z3okgh) |
@@ -64,8 +64,8 @@ Mejor precio: **$ 659.999** en **RM Insumos** ($ 19.999 sobre el objetivo).
 | $ 712.650 | - | Compufan Store | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 8GB GDDR6 WINDFORCE OC V2 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331356996) |
 | $ 754.370 | $ 838.189 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB GAMING OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_GAMING_OC_21438) |
 | $ 789.990 | - | Gezatek | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/gezatek:v0mgzp) |
-| $ 819.330 | - | Full H4rd | hardgamers | PLACA DE PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE OC | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvf1b0) |
-| $ 819.330 | - | XT-PC | hardgamers | PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE OC | - | [ver](https://www.hardgamers.com.ar/product/xtpc:vfa8tt) |
+| $ 824.582 | - | Full H4rd | hardgamers | PLACA DE PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE OC | - | [ver](https://www.hardgamers.com.ar/product/fullh4rd:dvf1b0) |
+| $ 824.582 | - | XT-PC | hardgamers | PLACA DE VIDEO GEFORCE RTX 5050 8GB GIGABYTE WINDFORCE OC | - | [ver](https://www.hardgamers.com.ar/product/xtpc:vfa8tt) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
@@ -80,13 +80,13 @@ Mejor precio: **$ 264.997** en **Acuario Insumos** (OK, dentro del objetivo).
 | $ 279.434 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 280.250 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
 | $ 280.867 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
+| $ 281.490 | $ 312.767 | CompraGamer | compragamer | Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4 | 10 | [ver](https://compragamer.com/producto/Disco_Solido_SSD_M_2_Kingston_1TB_NV3_6000MB_s_NVMe_PCI_E_Gen4_x4_16872) |
 | $ 282.880 | - | Crosshair Gaming | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:is4vea) |
 | $ 284.022 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
-| $ 286.830 | - | Maximus Gaming Hardware | hardgamers | DISCO SOLIDO SSD 1TB KINGSTON NV3 M.2 NVME PCIE X4 4.0 (SIMILAR 960GB) | - | [ver](https://www.hardgamers.com.ar/product/maximus:item-14946) |
 
 ## Avisos
 
 - CompraGamer: el ID 14666 de 'Mother AsRock B550M WiFi AM4' apunta a 'Mother Gigabyte A520M K V2 DDR4 AM4', que no cumple required_terms (faltan: asrock, b550m). Revisar el ID en components.yml.
-- CompraGamer: el ID 21515 de 'Memoria Team DDR4 8GB 3200MHz Elite Plus CL22' apunta a 'Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19', que no cumple required_terms (faltan: team, 8gb). Revisar el ID en components.yml.
+- CompraGamer: el ID 21515 de 'Memoria Team DDR4 8GB 3200MHz Elite Plus CL22' no existe en el catalogo (descontinuado o cambio de ID).
 - CompraGamer: el ID 14722 de 'Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC' apunta a 'Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC', que no cumple required_terms (faltan: RTX, 5050, gigabyte). Revisar el ID en components.yml.
 
