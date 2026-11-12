@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-11 16:01:36 -03
+Generado: 2026-11-11 22:44:29 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -12,6 +12,7 @@ Mejor precio: **$ 239.500** en **CompraGamer** (OK, dentro del objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 239.500 | $ 266.111 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
 | $ 256.521 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
+| $ 326.492 | - | BLACK | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO AM4 + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/black:197365) |
 | $ 340.200 | $ 378.000 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700GE 4.6GHz Turbo AM4 + Wraith Stealth Cooler OEM | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700GE_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_OEM_21413) |
 | $ 354.851 | $ 394.279 | CompraGamer | compragamer | Kit Mother ASUS PRIME B550M-K + Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Kit_Mother_ASUS_PRIME_B550M_K_Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_19402) |
 
@@ -86,6 +87,6 @@ Mejor precio: **$ 264.997** en **Acuario Insumos** (OK, dentro del objetivo).
 ## Avisos
 
 - CompraGamer: el ID 14666 de 'Mother AsRock B550M WiFi AM4' apunta a 'Mother Gigabyte A520M K V2 DDR4 AM4', que no cumple required_terms (faltan: asrock, b550m). Revisar el ID en components.yml.
-- CompraGamer: el ID 21515 de 'Memoria Team DDR4 8GB 3200MHz Elite Plus CL22' apunta a 'Memoria Mancer DDR4 16GB 3200MHz Vant S Black CL19', que no cumple required_terms (faltan: team, 8gb). Revisar el ID en components.yml.
+- CompraGamer: el ID 21515 de 'Memoria Team DDR4 8GB 3200MHz Elite Plus CL22' no existe en el catalogo (descontinuado o cambio de ID).
 - CompraGamer: el ID 14722 de 'Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC' apunta a 'Placa de Video Asrock Radeon RX 7600 8GB GDDR6 Challenger OC', que no cumple required_terms (faltan: RTX, 5050, gigabyte). Revisar el ID en components.yml.
 
