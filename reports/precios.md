@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-11 22:44:29 -03
+Generado: 2026-11-12 08:59:28 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -43,12 +43,12 @@ Mejor precio: **$ 118.000** en **CompraGamer** ($ 8.000 sobre el objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 118.000 | $ 131.111 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Grey_CL16_21382) |
 | $ 131.500 | $ 146.111 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_7523) |
+| $ 134.196 | - | SilverHard | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/silverHard:hx03xv) |
 | $ 135.800 | - | The Gamer Shop | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:i77f5l) |
 | $ 136.935 | - | SCP Hardstore | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:MEM633) |
 | $ 137.675 | - | Crosshair Gaming | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:tqtbr1) |
 | $ 137.676 | - | BracaTech | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/bracatech:pzhmfk) |
 | $ 138.120 | - | Enjoy Computer | hardgamers | MEMORIA 8GB DDR4 3200MHZ TEAM GROUP ELITE CL22 1.2V TED48G3200C2201 | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-38663) |
-| $ 139.403 | - | IgnaTech | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/ignatech:8145) |
 
 ## Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC
 
@@ -62,10 +62,10 @@ Mejor precio: **$ 659.999** en **RM Insumos** ($ 19.999 sobre el objetivo).
 | $ 693.660 | $ 770.733 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_Windforce_OC_21096) |
 | $ 699.999 | - | ArmyTech | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE V2 OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/armyTech:74479513) |
 | $ 712.650 | - | Compufan Store | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 8GB GDDR6 WINDFORCE OC V2 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331356996) |
-| $ 739.999 | - | Logg | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 128BIT PCIE 5.0 | - | [ver](https://www.hardgamers.com.ar/product/logg:u2m12t) |
 | $ 754.370 | $ 838.189 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB GAMING OC | 9 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_GAMING_OC_21438) |
 | $ 789.990 | - | Gezatek | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/gezatek:v0mgzp) |
 | $ 834.210 | - | Maximus Gaming Hardware | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE 8GB OC GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/maximus:9VN5050WO-00-G10) |
+| $ 887.699 | - | TryHardware | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 8GB GDDR6 WINDFORCE OC | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:f55sfe) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
