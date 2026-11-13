@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-12 21:48:26 -03
+Generado: 2026-11-13 08:43:56 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -59,12 +59,11 @@ Mejor precio: **$ 693.660** en **CompraGamer** ($ 53.660 sobre el objetivo).
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 693.660 | $ 770.733 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_Windforce_OC_21096) |
-| $ 699.999 | - | ArmyTech | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE V2 OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/armyTech:74479513) |
 | $ 712.650 | - | Compufan Store | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 8GB GDDR6 WINDFORCE OC V2 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:4719331356996) |
+| $ 736.912 | - | ArmyTech | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE V2 OC 8GB | - | [ver](https://www.hardgamers.com.ar/product/armyTech:74479513) |
 | $ 754.370 | $ 838.189 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB GAMING OC | 9 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_GAMING_OC_21438) |
 | $ 789.990 | - | Gezatek | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/gezatek:v0mgzp) |
 | $ 834.210 | - | Maximus Gaming Hardware | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE 8GB OC GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/maximus:9VN5050WO-00-G10) |
-| $ 887.699 | - | TryHardware | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 8GB GDDR6 WINDFORCE OC | - | [ver](https://www.hardgamers.com.ar/product/tryHardware:f55sfe) |
 
 ## Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4
 
@@ -77,10 +76,10 @@ Mejor precio: **$ 268.990** en **Venex** (OK, dentro del objetivo).
 | $ 268.990 | - | Venex | hardgamers | DISCO S�LIDO SSD KINGSTON NV3 1TB M.2 NVME PCIE 4.0 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/venex:b40ooc) |
 | $ 269.428 | - | Acuario Insumos | hardgamers | DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj) |
 | $ 269.760 | $ 299.733 | CompraGamer | compragamer | Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4 | 10 | [ver](https://compragamer.com/producto/Disco_Solido_SSD_M_2_Kingston_1TB_NV3_6000MB_s_NVMe_PCI_E_Gen4_x4_16872) |
-| $ 269.999 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
 | $ 280.250 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
 | $ 280.867 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
 | $ 282.880 | - | Crosshair Gaming | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:is4vea) |
+| $ 283.683 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
 | $ 284.022 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 
 ## Avisos
