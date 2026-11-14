@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-13 21:34:02 -03
+Generado: 2026-11-14 08:05:57 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -45,11 +45,11 @@ Mejor precio: **$ 118.000** en **CompraGamer** ($ 8.000 sobre el objetivo).
 | $ 118.000 | $ 131.111 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Grey_CL16_21382) |
 | $ 131.500 | $ 146.111 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_7523) |
 | $ 134.196 | - | SilverHard | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/silverHard:hx03xv) |
+| $ 134.400 | $ 149.333 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16 | 4 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Z_Grey_CL16_13905) |
 | $ 135.800 | - | The Gamer Shop | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:i77f5l) |
 | $ 136.935 | - | SCP Hardstore | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:MEM633) |
 | $ 137.675 | - | Crosshair Gaming | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:tqtbr1) |
 | $ 137.676 | - | BracaTech | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/bracatech:pzhmfk) |
-| $ 138.120 | - | Enjoy Computer | hardgamers | MEMORIA 8GB DDR4 3200MHZ TEAM GROUP ELITE CL22 1.2V TED48G3200C2201 | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-38663) |
 
 ## Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC
 
