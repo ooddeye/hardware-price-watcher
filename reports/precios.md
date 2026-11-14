@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-13 15:58:02 -03
+Generado: 2026-11-13 21:34:02 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -11,8 +11,9 @@ Mejor precio: **$ 239.500** en **CompraGamer** (OK, dentro del objetivo).
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 239.500 | $ 266.111 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
-| $ 256.521 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
-| $ 326.492 | - | BLACK | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO AM4 + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/black:197365) |
+| $ 262.904 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
+| $ 279.420 | - | Gaming Point | hardgamers | PROCESADOR AMD RYZEN 7 5700 OCTA-CORE 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/gamingPoint:lrkj06) |
+| $ 328.256 | - | BLACK | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO AM4 + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/black:197365) |
 | $ 340.200 | $ 378.000 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700GE 4.6GHz Turbo AM4 + Wraith Stealth Cooler OEM | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700GE_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_OEM_21413) |
 | $ 354.851 | $ 394.279 | CompraGamer | compragamer | Kit Mother ASUS PRIME B550M-K + Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Kit_Mother_ASUS_PRIME_B550M_K_Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_19402) |
 
