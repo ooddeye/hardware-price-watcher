@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-21 12:48:14 -03
+Generado: 2026-11-21 18:21:26 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -49,7 +49,7 @@ Mejor precio: **$ 120.250** en **CompraGamer** ($ 10.250 sobre el objetivo).
 | $ 170.501 | - | BLACK | hardgamers | MEMORIA DDR4 8GB 3200MHZ TEAM GROUP VULCAN ASUS TUF ALLIANCE CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:225007) |
 | $ 258.900 | $ 287.667 | CompraGamer | compragamer | Memoria Team DDR4 16GB (2x8GB) 3200MHz Vulcan Z Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_16GB_2x8GB_3200MHz_Vulcan_Z_Grey_CL16_19461) |
 | $ 354.845 | - | BLACK | hardgamers | MEMORIA DDR4 16GB 3200MHZ TEAM GROUP (2X8GB) VULCAN Z GREY CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:215570) |
-| $ 778.488 | $ 864.987 | CompraGamer | compragamer | Kit Procesador Intel Core I7 12700F 4.9GHz Turbo (Sin Video Integrado) + Mother ASUS PRIME H610M-K CSM DDR4 S1700 + Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 2 | [ver](https://compragamer.com/producto/Kit_Procesador_Intel_Core_I7_12700F_4_9GHz_Turbo_Sin_Video_Integrado_Mother_ASUS_PRIME_H610M_K_CSM_DDR4_S1700_Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_17521) |
+| $ 778.488 | $ 864.987 | CompraGamer | compragamer | Kit Procesador Intel Core I7 12700F 4.9GHz Turbo (Sin Video Integrado) + Mother ASUS PRIME H610M-K CSM DDR4 S1700 + Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 1 | [ver](https://compragamer.com/producto/Kit_Procesador_Intel_Core_I7_12700F_4_9GHz_Turbo_Sin_Video_Integrado_Mother_ASUS_PRIME_H610M_K_CSM_DDR4_S1700_Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_17521) |
 
 ## Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC
 
@@ -81,8 +81,8 @@ Mejor precio: **$ 273.771** en **SilverHard** (OK, dentro del objetivo).
 | $ 279.359 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 282.900 | $ 314.333 | CompraGamer | compragamer | Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4 | 10 | [ver](https://compragamer.com/producto/Disco_Solido_SSD_M_2_Kingston_1TB_NV3_6000MB_s_NVMe_PCI_E_Gen4_x4_16872) |
 | $ 285.160 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
-| $ 287.966 | - | IgnaTech | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/ignatech:6151) |
 | $ 289.103 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
+| $ 289.777 | - | IgnaTech | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/ignatech:6151) |
 
 ## Avisos
 
