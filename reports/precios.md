@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-22 12:47:46 -03
+Generado: 2026-11-22 18:24:57 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -79,7 +79,7 @@ Mejor precio: **$ 273.771** en **SilverHard** (OK, dentro del objetivo).
 | $ 276.848 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 | $ 279.359 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 282.900 | $ 314.333 | CompraGamer | compragamer | Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4 | 10 | [ver](https://compragamer.com/producto/Disco_Solido_SSD_M_2_Kingston_1TB_NV3_6000MB_s_NVMe_PCI_E_Gen4_x4_16872) |
-| $ 285.160 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
+| $ 286.030 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
 | $ 289.103 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
 | $ 289.777 | - | IgnaTech | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/ignatech:6151) |
 
