@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-23 16:40:22 -03
+Generado: 2026-11-24 01:31:00 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -38,18 +38,18 @@ Mejor precio: **$ 124.999** en **Noxie Store** (OK, dentro del objetivo).
 
 Precio objetivo unitario: $ 110.000
 
-Mejor precio: **$ 120.250** en **CompraGamer** ($ 10.250 sobre el objetivo).
+Mejor precio: **$ 114.000** en **CompraGamer** ($ 4.000 sobre el objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 120.250 | $ 133.611 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Grey_CL16_21382) |
+| $ 114.000 | $ 126.667 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Grey_CL16_21382) |
 | $ 124.400 | $ 138.222 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_7523) |
-| $ 136.950 | $ 152.167 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16 | 1 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Z_Grey_CL16_13905) |
-| $ 164.813 | - | BLACK | hardgamers | MEMORIA DDR4 8GB 3200MHZ TEAM GROUP T-FORCE VULCAN GREY CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:225008) |
 | $ 170.501 | - | BLACK | hardgamers | MEMORIA DDR4 8GB 3200MHZ TEAM GROUP VULCAN ASUS TUF ALLIANCE CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:225007) |
+| $ 190.786 | - | BLACK | hardgamers | MEMORIA DDR4 8GB 3200MHZ TEAM GROUP T-FORCE VULCAN GREY CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:225008) |
 | $ 258.900 | $ 287.667 | CompraGamer | compragamer | Memoria Team DDR4 16GB (2x8GB) 3200MHz Vulcan Z Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_16GB_2x8GB_3200MHz_Vulcan_Z_Grey_CL16_19461) |
 | $ 354.845 | - | BLACK | hardgamers | MEMORIA DDR4 16GB 3200MHZ TEAM GROUP (2X8GB) VULCAN Z GREY CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:215570) |
 | $ 778.488 | $ 864.987 | CompraGamer | compragamer | Kit Procesador Intel Core I7 12700F 4.9GHz Turbo (Sin Video Integrado) + Mother ASUS PRIME H610M-K CSM DDR4 S1700 + Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 1 | [ver](https://compragamer.com/producto/Kit_Procesador_Intel_Core_I7_12700F_4_9GHz_Turbo_Sin_Video_Integrado_Mother_ASUS_PRIME_H610M_K_CSM_DDR4_S1700_Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_17521) |
+| $ 810.929 | $ 901.032 | CompraGamer | compragamer | Kit Procesador Intel Core I7 12700 4.9GHz Turbo (Con Video Integrado) + Mother ASUS PRIME H610M-K CSM DDR4 S1700 + Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 1 | [ver](https://compragamer.com/producto/Kit_Procesador_Intel_Core_I7_12700_4_9GHz_Turbo_Con_Video_Integrado_Mother_ASUS_PRIME_H610M_K_CSM_DDR4_S1700_Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_17519) |
 
 ## Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC
 
@@ -74,12 +74,12 @@ Mejor precio: **$ 273.771** en **SilverHard** (OK, dentro del objetivo).
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 273.771 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
+| $ 274.999 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
 | $ 276.825 | - | Acuario Insumos | hardgamers | DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj) |
 | $ 276.848 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 | $ 279.359 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
-| $ 282.900 | $ 314.333 | CompraGamer | compragamer | Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4 | 10 | [ver](https://compragamer.com/producto/Disco_Solido_SSD_M_2_Kingston_1TB_NV3_6000MB_s_NVMe_PCI_E_Gen4_x4_16872) |
+| $ 284.478 | $ 316.087 | CompraGamer | compragamer | Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4 | 10 | [ver](https://compragamer.com/producto/Disco_Solido_SSD_M_2_Kingston_1TB_NV3_6000MB_s_NVMe_PCI_E_Gen4_x4_16872) |
 | $ 286.030 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
-| $ 289.103 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
 | $ 289.777 | - | IgnaTech | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/ignatech:6151) |
 
 ## Avisos
