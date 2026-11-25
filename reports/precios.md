@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-24 16:13:45 -03
+Generado: 2026-11-25 00:15:59 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -11,8 +11,8 @@ Mejor precio: **$ 246.350** en **CompraGamer** (OK, dentro del objetivo).
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 246.350 | $ 273.722 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_15474) |
-| $ 271.272 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
-| $ 287.403 | - | Gaming Point | hardgamers | PROCESADOR AMD RYZEN 7 5700 OCTA-CORE 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/gamingPoint:lrkj06) |
+| $ 270.440 | - | Amonpul Team | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:k3m68b) |
+| $ 290.064 | - | Gaming Point | hardgamers | PROCESADOR AMD RYZEN 7 5700 OCTA-CORE 4.6GHZ TURBO + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/gamingPoint:lrkj06) |
 | $ 337.644 | - | BLACK | hardgamers | PROCESADOR AMD RYZEN 7 5700 4.6GHZ TURBO AM4 + WRAITH STEALTH COOLER | - | [ver](https://www.hardgamers.com.ar/product/black:197365) |
 | $ 349.950 | $ 388.833 | CompraGamer | compragamer | Procesador AMD Ryzen 7 5700GE 4.6GHz Turbo AM4 + Wraith Stealth Cooler OEM | 10 | [ver](https://compragamer.com/producto/Procesador_AMD_Ryzen_7_5700GE_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_OEM_21413) |
 | $ 365.022 | $ 405.580 | CompraGamer | compragamer | Kit Mother ASUS PRIME B550M-K + Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler | 10 | [ver](https://compragamer.com/producto/Kit_Mother_ASUS_PRIME_B550M_K_Procesador_AMD_Ryzen_7_5700_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler_19402) |
@@ -30,9 +30,9 @@ Mejor precio: **$ 124.999** en **Noxie Store** (OK, dentro del objetivo).
 | $ 149.590 | - | Katech | hardgamers | MOTHER ASROCK B550M-HDV AM4 | - | [ver](https://www.hardgamers.com.ar/product/katech:6ttwlm) |
 | $ 149.768 | $ 166.409 | CompraGamer | compragamer | Mother Asrock B550M Phantom Gaming 4 AM4 | 10 | [ver](https://compragamer.com/producto/Mother_Asrock_B550M_Phantom_Gaming_4_AM4_12178) |
 | $ 156.302 | - | AuraGamer | hardgamers | MOTHER ASROCK (AM4) B550M PHANTOM GAMING 4 | - | [ver](https://www.hardgamers.com.ar/product/auragamer:78f7f7) |
-| $ 158.000 | - | Dinobyte | hardgamers | MOTHERBOARD AM4 ASROCK B550M HDV | - | [ver](https://www.hardgamers.com.ar/product/dinobyte:icyc3r) |
+| $ 158.500 | - | Dinobyte | hardgamers | MOTHERBOARD AM4 ASROCK B550M HDV | - | [ver](https://www.hardgamers.com.ar/product/dinobyte:icyc3r) |
+| $ 159.999 | - | Venex | hardgamers | MOTHERBOARD ASROCK B550M PHANTOM GAMING 4 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/venex:835o5z) |
 | $ 163.754 | $ 181.949 | CompraGamer | compragamer | Mother AsRock B550M WiFi AM4 | 10 | [ver](https://compragamer.com/producto/Mother_AsRock_B550M_WiFi_AM4_21581) |
-| $ 166.430 | - | Noxie Store | hardgamers | MOTHER ASROCK B550M PHANTOM GAMING 4 AM4 DDR4 | - | [ver](https://www.hardgamers.com.ar/product/noxie:as4vlj) |
 
 ## Memoria Team DDR4 8GB 3200MHz Elite Plus CL22
 
@@ -44,11 +44,12 @@ Mejor precio: **$ 115.065** en **CompraGamer** ($ 5.065 sobre el objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 115.065 | $ 127.850 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Grey_CL16_21382) |
 | $ 125.550 | $ 139.500 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_7523) |
+| $ 135.300 | - | The Gamer Shop | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:i77f5l) |
+| $ 136.482 | - | SCP Hardstore | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:MEM633) |
+| $ 137.220 | - | BracaTech | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/bracatech:pzhmfk) |
+| $ 137.221 | - | Crosshair Gaming | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:tqtbr1) |
+| $ 137.640 | - | Enjoy Computer | hardgamers | MEMORIA 8GB DDR4 3200MHZ TEAM GROUP ELITE CL22 1.2V TED48G3200C2201 | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-38663) |
 | $ 138.250 | $ 153.611 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16 | 1 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Z_Grey_CL16_13905) |
-| $ 157.707 | - | BLACK | hardgamers | MEMORIA DDR4 8GB 3200MHZ TEAM GROUP T-FORCE VULCAN GREY CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:225008) |
-| $ 172.077 | - | BLACK | hardgamers | MEMORIA DDR4 8GB 3200MHZ TEAM GROUP VULCAN ASUS TUF ALLIANCE CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:225007) |
-| $ 261.350 | $ 290.389 | CompraGamer | compragamer | Memoria Team DDR4 16GB (2x8GB) 3200MHz Vulcan Z Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_16GB_2x8GB_3200MHz_Vulcan_Z_Grey_CL16_19461) |
-| $ 358.203 | - | BLACK | hardgamers | MEMORIA DDR4 16GB 3200MHZ TEAM GROUP (2X8GB) VULCAN Z GREY CL16 | - | [ver](https://www.hardgamers.com.ar/product/black:215570) |
 
 ## Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC
 
@@ -73,13 +74,13 @@ Mejor precio: **$ 273.771** en **SilverHard** (OK, dentro del objetivo).
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
 | $ 273.771 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
-| $ 274.999 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
-| $ 278.578 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
+| $ 277.709 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
+| $ 279.443 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 | $ 281.137 | - | Acuario Insumos | hardgamers | DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj) |
 | $ 281.978 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 282.880 | - | Crosshair Gaming | hardgamers | SSD M.2 NVME 1TB G4 KINGSTON NV3 | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:is4vea) |
 | $ 287.141 | $ 319.046 | CompraGamer | compragamer | Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4 | 10 | [ver](https://compragamer.com/producto/Disco_Solido_SSD_M_2_Kingston_1TB_NV3_6000MB_s_NVMe_PCI_E_Gen4_x4_16872) |
-| $ 287.820 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
+| $ 288.660 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
 
 ## Avisos
 
