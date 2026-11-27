@@ -1,6 +1,6 @@
 # Reporte de precios de hardware
 
-Generado: 2026-11-26 23:33:35 -03
+Generado: 2026-11-27 10:20:18 -03
 
 ## Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler
 
@@ -44,12 +44,12 @@ Mejor precio: **$ 115.761** en **CompraGamer** ($ 5.761 sobre el objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 115.761 | $ 128.623 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Grey CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Grey_CL16_21382) |
 | $ 126.350 | $ 140.389 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200Mhz Vulcan ASUS TUF Alliance CL16 | 10 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200Mhz_Vulcan_ASUS_TUF_Alliance_CL16_7523) |
-| $ 134.995 | - | SilverHard | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/silverHard:hx03xv) |
+| $ 134.581 | - | SilverHard | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/silverHard:hx03xv) |
+| $ 136.100 | - | The Gamer Shop | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/thegamershop:i77f5l) |
 | $ 137.327 | - | SCP Hardstore | hardgamers | MEMORIA RAM DDR4 TEAM GROUP 8GB 3200MHZ ELITE | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:MEM633) |
 | $ 138.070 | - | BracaTech | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/bracatech:pzhmfk) |
 | $ 138.070 | - | Crosshair Gaming | hardgamers | MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V | - | [ver](https://www.hardgamers.com.ar/product/crosshairGaming:tqtbr1) |
 | $ 138.450 | - | Enjoy Computer | hardgamers | MEMORIA 8GB DDR4 3200MHZ TEAM GROUP ELITE CL22 1.2V TED48G3200C2201 | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-38663) |
-| $ 139.100 | $ 154.556 | CompraGamer | compragamer | Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16 | 1 | [ver](https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Z_Grey_CL16_13905) |
 
 ## Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC
 
@@ -61,7 +61,7 @@ Mejor precio: **$ 717.950** en **CompraGamer** ($ 77.950 sobre el objetivo).
 |---:|---:|---|---|---|---:|---|
 | $ 717.950 | $ 797.722 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC | 10 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_Windforce_OC_21096) |
 | $ 768.473 | - | Acuario Insumos | hardgamers | PLACA DE VIDEO GIGABYTE GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:atvrm2) |
-| $ 780.800 | $ 867.556 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB GAMING OC | 8 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_GAMING_OC_21438) |
+| $ 780.800 | $ 867.556 | CompraGamer | compragamer | Placa de Video Gigabyte GeForce RTX 5050 8GB GAMING OC | 9 | [ver](https://compragamer.com/producto/Placa_de_Video_Gigabyte_GeForce_RTX_5050_8GB_GAMING_OC_21438) |
 | $ 799.990 | - | Gezatek | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE OC 8GB GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/gezatek:v0mgzp) |
 | $ 838.880 | - | Maximus Gaming Hardware | hardgamers | PLACA DE VIDEO GIGABYTE NVIDIA GEFORCE RTX 5050 WINDFORCE 8GB OC GDDR6 | - | [ver](https://www.hardgamers.com.ar/product/maximus:9VN5050WO-00-G10) |
 
@@ -69,18 +69,18 @@ Mejor precio: **$ 717.950** en **CompraGamer** ($ 77.950 sobre el objetivo).
 
 Precio objetivo unitario: $ 290.000
 
-Mejor precio: **$ 278.500** en **Venex** (OK, dentro del objetivo).
+Mejor precio: **$ 279.050** en **Compufan Store** (OK, dentro del objetivo).
 
 | Precio | Lista | Tienda | Fuente | Producto | Stock | Link |
 |---:|---:|---|---|---|---:|---|
-| $ 278.500 | - | Venex | hardgamers | DISCO S?LIDO SSD KINGSTON NV3 1TB M.2 NVME PCIE 4.0 6000MB/S | - | [ver](https://www.hardgamers.com.ar/product/venex:b40ooc) |
-| $ 278.905 | - | SilverHard | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/silverHard:8pjwxi) |
+| $ 279.050 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
 | $ 280.420 | - | ArmyTech | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S G4 | - | [ver](https://www.hardgamers.com.ar/product/armyTech:539846107) |
 | $ 281.174 | - | Amonpul Team | hardgamers | SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb) |
 | $ 283.724 | - | Acuario Insumos | hardgamers | DISCO SÓLIDO SSD M.2 KINGSTON 1TB NV3 6000MB/S NVME PCI-E GEN4 X4 +Q 960GB | - | [ver](https://www.hardgamers.com.ar/product/acuarioInsumos:hvracj) |
-| $ 284.600 | - | Compufan Store | hardgamers | DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4 | - | [ver](https://www.hardgamers.com.ar/product/compufanStore:740617344790) |
+| $ 283.724 | - | SCP Hardstore | hardgamers | DISCO SSD M.2 KINGSTON 1TB NV3 SNV3S NVME GEN4 | - | [ver](https://www.hardgamers.com.ar/product/scpHardStore:SM242) |
 | $ 288.922 | $ 321.024 | CompraGamer | compragamer | Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4 | 10 | [ver](https://compragamer.com/producto/Disco_Solido_SSD_M_2_Kingston_1TB_NV3_6000MB_s_NVMe_PCI_E_Gen4_x4_16872) |
 | $ 289.000 | - | Gaming City | hardgamers | DISCO SSD M.2 1TB KINGSTON NVME PCIE 4.0 NV3 | - | [ver](https://www.hardgamers.com.ar/product/gamingCity:14664) |
+| $ 291.240 | - | Enjoy Computer | hardgamers | DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G | - | [ver](https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674) |
 
 ## Avisos
 
