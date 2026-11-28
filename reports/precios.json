@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:50:34+00:00",
+  "generated_at": "2026-11-28T05:35:38+00:00",
   "currency": "ARS",
   "components": [
     {
@@ -19,7 +19,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 275444.0,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -33,7 +33,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -47,7 +47,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -61,7 +61,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -75,7 +75,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 391278.0,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Procesador AMD Ryzen 7 5700 4.6GHz Turbo AM4 + Wraith Stealth Cooler",
@@ -89,7 +89,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 408132.0,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         }
       ]
     },
@@ -110,7 +110,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 138778.0,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -124,7 +124,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -138,7 +138,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -152,7 +152,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 167411.0,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -166,7 +166,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -180,7 +180,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
@@ -194,21 +194,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Mother AsRock B550M WiFi AM4",
           "source": "hardgamers",
-          "store": "SilverHard",
-          "name": "MOTHER ASROCK B550M PHANTOM GAMING 4 - AM4",
-          "price_ars": 162942.0,
-          "url": "https://www.hardgamers.com.ar/product/silverHard:dvcly3",
+          "store": "Noxie Store",
+          "name": "MOTHER ASROCK B550M PHANTOM GAMING 4 AM4 DDR4",
+          "price_ars": 166430.0,
+          "url": "https://www.hardgamers.com.ar/product/noxie:as4vlj",
           "score": 18,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         }
       ]
     },
@@ -229,7 +229,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 128623.0,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -243,7 +243,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 140389.0,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -257,21 +257,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
-        },
-        {
-          "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
-          "source": "hardgamers",
-          "store": "The Gamer Shop",
-          "name": "MEMORIA RAM UDIMM TEAM GROUP ELITE 8GB DDR4 3200MHZ CL22 1.2V",
-          "price_ars": 136100.0,
-          "url": "https://www.hardgamers.com.ar/product/thegamershop:i77f5l",
-          "score": 25,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -285,7 +271,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -299,7 +285,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -313,7 +299,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
@@ -327,7 +313,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
+        },
+        {
+          "component": "Memoria Team DDR4 8GB 3200MHz Elite Plus CL22",
+          "source": "compragamer",
+          "store": "CompraGamer",
+          "name": "Memoria Team DDR4 8GB 3200MHz T-Force Vulcan Z Grey CL16",
+          "price_ars": 139100.0,
+          "url": "https://compragamer.com/producto/Memoria_Team_DDR4_8GB_3200MHz_T_Force_Vulcan_Z_Grey_CL16_13905",
+          "score": 24,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": 1,
+          "list_price_ars": 154556.0,
+          "collected_at": "2026-11-28T05:35:25+00:00"
         }
       ]
     },
@@ -348,7 +348,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 797722.0,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -362,7 +362,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -374,9 +374,9 @@
           "score": 26,
           "matched_by": "terminos",
           "available": true,
-          "stock": 9,
+          "stock": 8,
           "list_price_ars": 867556.0,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -390,7 +390,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Placa de Video Gigabyte GeForce RTX 5050 8GB Windforce OC",
@@ -404,7 +404,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         }
       ]
     },
@@ -418,14 +418,14 @@
           "source": "hardgamers",
           "store": "Compufan Store",
           "name": "DISCO SOLIDO SSD M.2 KINGSTON 1TB NV3 6.000MB/S NVME PCIE GEN4 X4",
-          "price_ars": 278150.0,
+          "price_ars": 279050.0,
           "url": "https://www.hardgamers.com.ar/product/compufanStore:740617344790",
           "score": 17,
           "matched_by": "terminos",
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -439,7 +439,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -453,7 +453,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
+        },
+        {
+          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
+          "source": "hardgamers",
+          "store": "Amonpul Team",
+          "name": "SSD M.2 NVME 1TB KINGSTON NV3 GEN4 6000MB/S SNV3S/1000G",
+          "price_ars": 283801.0,
+          "url": "https://www.hardgamers.com.ar/product/amonpulTeam:fwwadb",
+          "score": 18,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -467,7 +481,7 @@
           "available": true,
           "stock": 10,
           "list_price_ars": 321024.0,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -481,7 +495,21 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
+        },
+        {
+          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
+          "source": "hardgamers",
+          "store": "Enjoy Computer",
+          "name": "DISCO SOLIDO 1TB KINGSTON SNV3S NV3 2280 M.2 NVME SSD GEN4 6000MB/S SNV3S/1000G",
+          "price_ars": 293860.0,
+          "url": "https://www.hardgamers.com.ar/product/enjoyComputer:wc-31674",
+          "score": 18,
+          "matched_by": "terminos",
+          "available": true,
+          "stock": null,
+          "list_price_ars": null,
+          "collected_at": "2026-11-28T05:35:25+00:00"
         },
         {
           "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
@@ -495,35 +523,7 @@
           "available": true,
           "stock": null,
           "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
-        },
-        {
-          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
-          "source": "hardgamers",
-          "store": "Logg",
-          "name": "DISCO SÓLIDO SSD KINGSTON NV3 1TB M.2 2280 NVME PCIE GEN4X4 6000MB/S",
-          "price_ars": 299999.0,
-          "url": "https://www.hardgamers.com.ar/product/logg:czx1x",
-          "score": 18,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
-        },
-        {
-          "component": "Disco Sólido SSD M.2 Kingston 1TB NV3 6000MB/s NVMe PCI-E Gen4 x4",
-          "source": "hardgamers",
-          "store": "Maximus Gaming Hardware",
-          "name": "DISCO SOLIDO SSD 1TB KINGSTON NV3 M.2 NVME PCIE X4 4.0 (SIMILAR 960GB)",
-          "price_ars": 300907.0,
-          "url": "https://www.hardgamers.com.ar/product/maximus:item-14946",
-          "score": 17,
-          "matched_by": "terminos",
-          "available": true,
-          "stock": null,
-          "list_price_ars": null,
-          "collected_at": "2026-11-27T23:50:21+00:00"
+          "collected_at": "2026-11-28T05:35:25+00:00"
         }
       ]
     }
